@@ -14,7 +14,7 @@ VivaTechnology multi‑sector scraper
 
 * 各セクター一覧ページを順番にスクロールして出展企業 URL を収集
 * 企業ページから以下を抽出
-    - name, booth, homepage, categories, overview, partner_url
+    - name, booth, homepage, categories, overview, **startup**, partner_url
 * `viva_partners.csv` へ出力しつつ `Company -> Homepage` をリアルタイム表示
 """
 from __future__ import annotations
@@ -47,9 +47,10 @@ LIST_URLS = [
     "https://vivatechnology.com/partners?sectors=industry",
     "https://vivatechnology.com/partners?sectors=information%2520technologies",
     "https://vivatechnology.com/partners?sectors=luxury%252Ffashion%252Fbeauty",
-    "https://vivatechnology.com/partners?sectors=luxury%252Ffashion%252Fbeauty%257Cmarketing%252Fadvertising%252Fcommunication",
+    "https://vivatechnology.com/partners?sectors=marketing%252Fadvertising%252Fcommunication",
     "https://vivatechnology.com/partners?sectors=mobility%252Ftransportation",
-    "https://vivatechnology.com/partners?sectors=mobility%252Ftransportation%257Csmart%2520city%252Fbuilding",
+    "https://vivatechnology.com/partners?sectors=smart%2520city%252Fbuilding",
+
 ]
 
 HEADLESS = True
@@ -70,6 +71,7 @@ SOCIAL_RE = re.compile(
 # ---------------------------------------------------------------------------
 
 def _make_driver(headless: bool = True) -> webdriver.Chrome:
+    """Spin up a new Chrome driver instance."""
     opts = Options()
     if headless:
         opts.add_argument("--headless=new")
@@ -85,6 +87,7 @@ def _make_driver(headless: bool = True) -> webdriver.Chrome:
 # ---------------------------------------------------------------------------
 
 def _current_partner_links(driver: webdriver.Chrome) -> Set[str]:
+    """Return the set of company profile URLs currently in the viewport."""
     return {
         a.get_attribute("href").split("?")[0]
         for a in driver.find_elements(By.CSS_SELECTOR, 'a[href^="/partners/"]')
@@ -92,6 +95,7 @@ def _current_partner_links(driver: webdriver.Chrome) -> Set[str]:
     }
 
 def collect_all_partner_urls() -> List[str]:
+    """Scroll each sector list page to collect all partner profile links."""
     all_links: Set[str] = set()
     for page_url in LIST_URLS:
         print(f"Scanning sector page → {page_url}")
@@ -130,6 +134,7 @@ def collect_all_partner_urls() -> List[str]:
 # ---------------------------------------------------------------------------
 
 def _fetch_html(url: str) -> str:
+    """Download a partner profile page and return its HTML."""
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             d = _make_driver(HEADLESS)
@@ -146,10 +151,11 @@ def _fetch_html(url: str) -> str:
     raise RuntimeError(f"Failed to fetch {url}")
 
 # ---------------------------------------------------------------------------
-# Field extractors (unchanged from previous version)
+# Field extractors
 # ---------------------------------------------------------------------------
 
 def _first_homepage(soup: BeautifulSoup) -> str:
+    """Extract the first non-social external link as the company's homepage."""
     for a in soup.select("a[href]"):
         if a.find("span", class_="label symbols") and "language" in a.get_text(" ", strip=True).lower():
             href = a["href"].strip()
@@ -183,13 +189,29 @@ def _extract_booth(soup: BeautifulSoup) -> str:
 def _extract_categories(soup: BeautifulSoup) -> str:
     cats = [span.get_text(strip=True) for span in soup.select(
         "span.flex-1.font-normal.text-clr-default-400.text-xs.px-2.truncate")]
-    seen = set()
+    seen: Set[str] = set()
     return ", ".join([c for c in cats if not (c in seen or seen.add(c))])
 
 
 def _extract_overview(soup: BeautifulSoup) -> str:
     parts = [div.get_text(" ", strip=True) for div in soup.select("div.my-4.text-xs.leading-relaxed")]
     return "\n".join(parts)
+
+
+def _is_startup(soup: BeautifulSoup) -> str:
+    """Return 'startup' if the profile is labelled as such, else empty string."""
+    # Precise tag (keeps false‑positives low)
+    tag = soup.select_one(
+        "div.max-w-fit.min-w-min.justify-between.box-border.whitespace-nowrap"
+        ".px-2.text-medium.rounded-full.bg-clr-quaternary-50.text-clr-quaternary-700"
+    )
+    if tag and "startup" in tag.get_text(strip=True).lower():
+        return "startup"
+
+    # Fallback: any 'startup' badge elsewhere
+#    if soup.find(string=re.compile(r"\bstartup\b", re.I)):
+#        return "startup"
+    return ""
 
 # ---------------------------------------------------------------------------
 # Parse one partner
@@ -204,6 +226,7 @@ def parse_partner(url: str) -> Dict[str, str]:
         "homepage": _first_homepage(soup),
         "categories": _extract_categories(soup),
         "overview": _extract_overview(soup),
+        "startup": _is_startup(soup),
         "partner_url": url,
     }
 
@@ -225,7 +248,18 @@ def main() -> None:
 
     out = Path("viva_partners.csv")
     with out.open("w", newline="", encoding="utf-8") as fp:
-        writer = csv.DictWriter(fp, fieldnames=["name", "booth", "homepage", "categories", "overview", "partner_url"])
+        writer = csv.DictWriter(
+            fp,
+            fieldnames=[
+                "name",
+                "booth",
+                "homepage",
+                "categories",
+                "overview",
+                "startup",
+                "partner_url",
+            ],
+        )
         writer.writeheader()
         writer.writerows(rows)
 
