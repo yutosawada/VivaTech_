@@ -1,0 +1,3 @@
+2025-05-19 13:26:07,957 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:26:16,897 [INFO] Loaded page https://vivatechnology.com/partners
+2025-05-19 13:26:16,942 [DEBUG] Scroll total height 31995, viewport 941

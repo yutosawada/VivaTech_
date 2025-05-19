@@ -1,0 +1,467 @@
+2025-05-19 12:59:54,735 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:00:03,351 [INFO] Loaded page https://vivatechnology.com/partners
+2025-05-19 13:00:03,371 [DEBUG] Scroll total height 31995, viewport 941
+2025-05-19 13:03:08,085 [INFO] Finished stepwise scroll
+2025-05-19 13:03:08,212 [INFO] Found 1591 company blocks
+2025-05-19 13:03:08,500 [DEBUG] [6] queued 2TONNES
+2025-05-19 13:03:10,451 [DEBUG] [55] queued AKIVI
+2025-05-19 13:03:10,671 [DEBUG] [59] queued ALEFREDO EXAMS
+2025-05-19 13:03:11,754 [DEBUG] [87] queued ANONYMOUS DOTS TECHNOLOGY COLIMITED
+2025-05-19 13:03:12,878 [DEBUG] [115] queued AUGMEDI AG
+2025-05-19 13:03:13,438 [DEBUG] [128] queued AWORLD
+2025-05-19 13:03:14,150 [DEBUG] [145] queued BEEKEE
+2025-05-19 13:03:15,143 [DEBUG] [170] queued BLATRON
+2025-05-19 13:03:15,230 [DEBUG] [171] queued BLIFY
+2025-05-19 13:03:17,517 [DEBUG] [229] queued CCI PARIS ILE-DE-FRANCE
+2025-05-19 13:03:17,792 [DEBUG] [235] queued CERTIFOPAC
+2025-05-19 13:03:18,536 [DEBUG] [254] queued CLEO
+2025-05-19 13:03:19,241 [DEBUG] [271] queued COACHELLO
+2025-05-19 13:03:19,613 [DEBUG] [280] queued CONSTEL MENTORING
+2025-05-19 13:03:22,454 [DEBUG] [346] queued DÉLÉGATION GÉNÉRALE À L’ENTREPRENARIAT RAPIDE DES FEMMES ET DES JEUNES
+2025-05-19 13:03:23,264 [DEBUG] [366] queued DIGIOTOUCH OU
+2025-05-19 13:03:24,751 [DEBUG] [405] queued E-REO
+2025-05-19 13:03:25,390 [DEBUG] [421] queued EDTAKE
+2025-05-19 13:03:26,560 [DEBUG] [453] skip block: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"}
+  (Session info: chrome=134.0.6998.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x58178ebf4ffa <unknown>
+#1 0x58178e6b3970 <unknown>
+#2 0x58178e705385 <unknown>
+#3 0x58178e7055b1 <unknown>
+#4 0x58178e6f8f56 <unknown>
+#5 0x58178e72b2bd <unknown>
+#6 0x58178e6f8e4a <unknown>
+#7 0x58178e72b45e <unknown>
+#8 0x58178e75170c <unknown>
+#9 0x58178e72b063 <unknown>
+#10 0x58178e6f7328 <unknown>
+#11 0x58178e6f8491 <unknown>
+#12 0x58178ebbc42b <unknown>
+#13 0x58178ebc02ec <unknown>
+#14 0x58178eba3a22 <unknown>
+#15 0x58178ebc0e64 <unknown>
+#16 0x58178eb87bef <unknown>
+#17 0x58178ebe3558 <unknown>
+#18 0x58178ebe3736 <unknown>
+#19 0x58178ebf3e76 <unknown>
+#20 0x7eb32129caa4 <unknown>
+#21 0x7eb321329c3c <unknown>
+
+2025-05-19 13:03:27,813 [DEBUG] [483] queued EXPLORE MEDIA
+2025-05-19 13:03:28,199 [DEBUG] [491] queued FACIL'ITI
+2025-05-19 13:03:29,631 [DEBUG] [529] queued FORMEAZY
+2025-05-19 13:03:31,466 [DEBUG] [575] queued GOWIZAPP
+2025-05-19 13:03:32,359 [DEBUG] [600] skip block: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"}
+  (Session info: chrome=134.0.6998.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x58178ebf4ffa <unknown>
+#1 0x58178e6b3970 <unknown>
+#2 0x58178e705385 <unknown>
+#3 0x58178e7055b1 <unknown>
+#4 0x58178e6f8f56 <unknown>
+#5 0x58178e72b2bd <unknown>
+#6 0x58178e6f8e4a <unknown>
+#7 0x58178e72b45e <unknown>
+#8 0x58178e75170c <unknown>
+#9 0x58178e72b063 <unknown>
+#10 0x58178e6f7328 <unknown>
+#11 0x58178e6f8491 <unknown>
+#12 0x58178ebbc42b <unknown>
+#13 0x58178ebc02ec <unknown>
+#14 0x58178eba3a22 <unknown>
+#15 0x58178ebc0e64 <unknown>
+#16 0x58178eb87bef <unknown>
+#17 0x58178ebe3558 <unknown>
+#18 0x58178ebe3736 <unknown>
+#19 0x58178ebf3e76 <unknown>
+#20 0x7eb32129caa4 <unknown>
+#21 0x7eb321329c3c <unknown>
+
+2025-05-19 13:03:32,505 [DEBUG] [604] skip block: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"}
+  (Session info: chrome=134.0.6998.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x58178ebf4ffa <unknown>
+#1 0x58178e6b3970 <unknown>
+#2 0x58178e705385 <unknown>
+#3 0x58178e7055b1 <unknown>
+#4 0x58178e6f8f56 <unknown>
+#5 0x58178e72b2bd <unknown>
+#6 0x58178e6f8e4a <unknown>
+#7 0x58178e72b45e <unknown>
+#8 0x58178e75170c <unknown>
+#9 0x58178e72b063 <unknown>
+#10 0x58178e6f7328 <unknown>
+#11 0x58178e6f8491 <unknown>
+#12 0x58178ebbc42b <unknown>
+#13 0x58178ebc02ec <unknown>
+#14 0x58178eba3a22 <unknown>
+#15 0x58178ebc0e64 <unknown>
+#16 0x58178eb87bef <unknown>
+#17 0x58178ebe3558 <unknown>
+#18 0x58178ebe3736 <unknown>
+#19 0x58178ebf3e76 <unknown>
+#20 0x7eb32129caa4 <unknown>
+#21 0x7eb321329c3c <unknown>
+
+2025-05-19 13:03:33,125 [DEBUG] [620] queued HIVENET
+2025-05-19 13:03:34,886 [DEBUG] [665] queued INERSIO
+2025-05-19 13:03:36,865 [DEBUG] [714] queued JOBTASTE
+2025-05-19 13:03:37,019 [DEBUG] [717] queued JUISCI
+2025-05-19 13:03:38,197 [DEBUG] [749] queued KOKORO LINGUA
+2025-05-19 13:03:39,117 [DEBUG] [771] queued L4BOX
+2025-05-19 13:03:39,225 [DEBUG] [773] queued LA CARTE DES TALENTS
+2025-05-19 13:03:39,357 [DEBUG] [775] queued LA REBELLE CONNECT
+2025-05-19 13:03:39,484 [DEBUG] [777] queued LA TOUCHE MUSICALE
+2025-05-19 13:03:39,612 [DEBUG] [781] skip block: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"}
+  (Session info: chrome=134.0.6998.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x58178ebf4ffa <unknown>
+#1 0x58178e6b3970 <unknown>
+#2 0x58178e705385 <unknown>
+#3 0x58178e7055b1 <unknown>
+#4 0x58178e6f8f56 <unknown>
+#5 0x58178e72b2bd <unknown>
+#6 0x58178e6f8e4a <unknown>
+#7 0x58178e72b45e <unknown>
+#8 0x58178e75170c <unknown>
+#9 0x58178e72b063 <unknown>
+#10 0x58178e6f7328 <unknown>
+#11 0x58178e6f8491 <unknown>
+#12 0x58178ebbc42b <unknown>
+#13 0x58178ebc02ec <unknown>
+#14 0x58178eba3a22 <unknown>
+#15 0x58178ebc0e64 <unknown>
+#16 0x58178eb87bef <unknown>
+#17 0x58178ebe3558 <unknown>
+#18 0x58178ebe3736 <unknown>
+#19 0x58178ebf3e76 <unknown>
+#20 0x7eb32129caa4 <unknown>
+#21 0x7eb321329c3c <unknown>
+
+2025-05-19 13:03:39,901 [DEBUG] [788] queued LEARNING ROBOTS
+2025-05-19 13:03:40,237 [DEBUG] [796] queued LEON
+2025-05-19 13:03:42,374 [DEBUG] [852] queued MANSA TALENTS
+2025-05-19 13:03:43,125 [DEBUG] [871] queued MENTALECO
+2025-05-19 13:03:44,063 [DEBUG] [893] queued MINACLASS
+2025-05-19 13:03:44,759 [DEBUG] [911] queued MIST STUDIO
+2025-05-19 13:03:45,268 [DEBUG] [924] queued MONELECTROBOX
+2025-05-19 13:03:45,756 [DEBUG] [936] queued MOVER
+2025-05-19 13:03:46,484 [DEBUG] [954] queued MYOTHESIS
+2025-05-19 13:03:47,854 [DEBUG] [991] queued NOLEJ
+2025-05-19 13:03:49,155 [DEBUG] [1025] queued OHÉ - ORTHOGRAPHE HÉROS
+2025-05-19 13:03:49,663 [DEBUG] [1039] skip block: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"}
+  (Session info: chrome=134.0.6998.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x58178ebf4ffa <unknown>
+#1 0x58178e6b3970 <unknown>
+#2 0x58178e705385 <unknown>
+#3 0x58178e7055b1 <unknown>
+#4 0x58178e6f8f56 <unknown>
+#5 0x58178e72b2bd <unknown>
+#6 0x58178e6f8e4a <unknown>
+#7 0x58178e72b45e <unknown>
+#8 0x58178e75170c <unknown>
+#9 0x58178e72b063 <unknown>
+#10 0x58178e6f7328 <unknown>
+#11 0x58178e6f8491 <unknown>
+#12 0x58178ebbc42b <unknown>
+#13 0x58178ebc02ec <unknown>
+#14 0x58178eba3a22 <unknown>
+#15 0x58178ebc0e64 <unknown>
+#16 0x58178eb87bef <unknown>
+#17 0x58178ebe3558 <unknown>
+#18 0x58178ebe3736 <unknown>
+#19 0x58178ebf3e76 <unknown>
+#20 0x7eb32129caa4 <unknown>
+#21 0x7eb321329c3c <unknown>
+
+2025-05-19 13:03:49,974 [DEBUG] [1046] queued OPENCYBER AI
+2025-05-19 13:03:50,639 [DEBUG] [1063] queued ORELIS SARL
+2025-05-19 13:03:51,020 [DEBUG] [1072] queued OVA INC.
+2025-05-19 13:03:51,457 [DEBUG] [1082] queued PALM.AI
+2025-05-19 13:03:52,943 [DEBUG] [1123] queued PLAYCURIO CO., LTD.
+2025-05-19 13:03:53,233 [DEBUG] [1130] queued POKAMIND
+2025-05-19 13:03:53,431 [DEBUG] [1134] queued POLLEN
+2025-05-19 13:03:55,591 [DEBUG] [1191] queued QUITUS
+2025-05-19 13:03:58,293 [DEBUG] [1258] queued SAYNA
+2025-05-19 13:03:58,566 [DEBUG] [1264] queued SCANLITT
+2025-05-19 13:03:59,336 [DEBUG] [1285] skip block: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"}
+  (Session info: chrome=134.0.6998.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x58178ebf4ffa <unknown>
+#1 0x58178e6b3970 <unknown>
+#2 0x58178e705385 <unknown>
+#3 0x58178e7055b1 <unknown>
+#4 0x58178e6f8f56 <unknown>
+#5 0x58178e72b2bd <unknown>
+#6 0x58178e6f8e4a <unknown>
+#7 0x58178e72b45e <unknown>
+#8 0x58178e75170c <unknown>
+#9 0x58178e72b063 <unknown>
+#10 0x58178e6f7328 <unknown>
+#11 0x58178e6f8491 <unknown>
+#12 0x58178ebbc42b <unknown>
+#13 0x58178ebc02ec <unknown>
+#14 0x58178eba3a22 <unknown>
+#15 0x58178ebc0e64 <unknown>
+#16 0x58178eb87bef <unknown>
+#17 0x58178ebe3558 <unknown>
+#18 0x58178ebe3736 <unknown>
+#19 0x58178ebf3e76 <unknown>
+#20 0x7eb32129caa4 <unknown>
+#21 0x7eb321329c3c <unknown>
+
+2025-05-19 13:04:01,423 [DEBUG] [1341] queued STARPAL.AI
+2025-05-19 13:04:01,710 [DEBUG] [1348] queued STEWDY
+2025-05-19 13:04:02,722 [DEBUG] [1373] queued SYMPLIF.AI
+2025-05-19 13:04:03,040 [DEBUG] [1380] queued TALEME
+2025-05-19 13:04:03,169 [DEBUG] [1383] queued TANJIBLOCKS
+2025-05-19 13:04:03,764 [DEBUG] [1397] queued TEN FRAMEWORK
+2025-05-19 13:04:05,562 [DEBUG] [1444] queued TURING SPACE
+2025-05-19 13:04:08,003 [DEBUG] [1509] skip block: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"}
+  (Session info: chrome=134.0.6998.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x58178ebf4ffa <unknown>
+#1 0x58178e6b3970 <unknown>
+#2 0x58178e705385 <unknown>
+#3 0x58178e7055b1 <unknown>
+#4 0x58178e6f8f56 <unknown>
+#5 0x58178e72b2bd <unknown>
+#6 0x58178e6f8e4a <unknown>
+#7 0x58178e72b45e <unknown>
+#8 0x58178e75170c <unknown>
+#9 0x58178e72b063 <unknown>
+#10 0x58178e6f7328 <unknown>
+#11 0x58178e6f8491 <unknown>
+#12 0x58178ebbc42b <unknown>
+#13 0x58178ebc02ec <unknown>
+#14 0x58178eba3a22 <unknown>
+#15 0x58178ebc0e64 <unknown>
+#16 0x58178eb87bef <unknown>
+#17 0x58178ebe3558 <unknown>
+#18 0x58178ebe3736 <unknown>
+#19 0x58178ebf3e76 <unknown>
+#20 0x7eb32129caa4 <unknown>
+#21 0x7eb321329c3c <unknown>
+
+2025-05-19 13:04:09,155 [DEBUG] [1540] skip block: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"}
+  (Session info: chrome=134.0.6998.88); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x58178ebf4ffa <unknown>
+#1 0x58178e6b3970 <unknown>
+#2 0x58178e705385 <unknown>
+#3 0x58178e7055b1 <unknown>
+#4 0x58178e6f8f56 <unknown>
+#5 0x58178e72b2bd <unknown>
+#6 0x58178e6f8e4a <unknown>
+#7 0x58178e72b45e <unknown>
+#8 0x58178e75170c <unknown>
+#9 0x58178e72b063 <unknown>
+#10 0x58178e6f7328 <unknown>
+#11 0x58178e6f8491 <unknown>
+#12 0x58178ebbc42b <unknown>
+#13 0x58178ebc02ec <unknown>
+#14 0x58178eba3a22 <unknown>
+#15 0x58178ebc0e64 <unknown>
+#16 0x58178eb87bef <unknown>
+#17 0x58178ebe3558 <unknown>
+#18 0x58178ebe3736 <unknown>
+#19 0x58178ebf3e76 <unknown>
+#20 0x7eb32129caa4 <unknown>
+#21 0x7eb321329c3c <unknown>
+
+2025-05-19 13:04:09,385 [DEBUG] [1545] queued WILBI
+2025-05-19 13:04:10,296 [DEBUG] [1568] queued YELLO
+2025-05-19 13:04:10,723 [DEBUG] [1578] queued ZAKA
+2025-05-19 13:04:10,991 [DEBUG] [1584] queued ZENCODER
+2025-05-19 13:04:11,257 [INFO] Collected 63 companies for detail extraction
+2025-05-19 13:04:11,796 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:04:19,615 [DEBUG] Fetched HTML https://vivatechnology.com/partners/2tonnes
+2025-05-19 13:04:19,700 [INFO] [1] enriched 2TONNES
+2025-05-19 13:04:20,051 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:04:26,861 [DEBUG] Fetched HTML https://vivatechnology.com/partners/akivi
+2025-05-19 13:04:26,946 [INFO] [2] enriched AKIVI
+2025-05-19 13:04:27,291 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:04:34,820 [DEBUG] Fetched HTML https://vivatechnology.com/partners/alefredo-exams
+2025-05-19 13:04:34,921 [INFO] [3] enriched ALEFREDO EXAMS
+2025-05-19 13:04:36,292 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:04:43,825 [DEBUG] Fetched HTML https://vivatechnology.com/partners/anonymous-dots-technology-colimited
+2025-05-19 13:04:43,907 [INFO] [4] enriched ANONYMOUS DOTS TECHNOLOGY COLIMITED
+2025-05-19 13:04:44,244 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:04:51,545 [DEBUG] Fetched HTML https://vivatechnology.com/partners/augmedi-ag
+2025-05-19 13:04:51,629 [INFO] [5] enriched AUGMEDI AG
+2025-05-19 13:04:51,969 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:04:58,899 [DEBUG] Fetched HTML https://vivatechnology.com/partners/aworld
+2025-05-19 13:04:58,983 [INFO] [6] enriched AWORLD
+2025-05-19 13:04:59,344 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:05:06,855 [DEBUG] Fetched HTML https://vivatechnology.com/partners/beekee
+2025-05-19 13:05:06,940 [INFO] [7] enriched BEEKEE
+2025-05-19 13:05:07,267 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:05:14,508 [DEBUG] Fetched HTML https://vivatechnology.com/partners/blatron
+2025-05-19 13:05:14,604 [INFO] [8] enriched BLATRON
+2025-05-19 13:05:14,939 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:05:22,853 [DEBUG] Fetched HTML https://vivatechnology.com/partners/blify
+2025-05-19 13:05:22,939 [INFO] [9] enriched BLIFY
+2025-05-19 13:05:23,268 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:05:30,770 [DEBUG] Fetched HTML https://vivatechnology.com/partners/cci-paris-ile-de-france
+2025-05-19 13:05:30,926 [INFO] [10] enriched CCI PARIS ILE-DE-FRANCE
+2025-05-19 13:05:31,260 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:05:38,919 [DEBUG] Fetched HTML https://vivatechnology.com/partners/certifopac
+2025-05-19 13:05:39,005 [INFO] [11] enriched CERTIFOPAC
+2025-05-19 13:05:39,349 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:05:47,152 [DEBUG] Fetched HTML https://vivatechnology.com/partners/cleo
+2025-05-19 13:05:47,243 [INFO] [12] enriched CLEO
+2025-05-19 13:05:47,576 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:05:54,880 [DEBUG] Fetched HTML https://vivatechnology.com/partners/coachello
+2025-05-19 13:05:54,960 [INFO] [13] enriched COACHELLO
+2025-05-19 13:05:55,286 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:06:03,299 [DEBUG] Fetched HTML https://vivatechnology.com/partners/constel-mentoring
+2025-05-19 13:06:03,384 [INFO] [14] enriched CONSTEL MENTORING
+2025-05-19 13:06:03,710 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:06:11,149 [DEBUG] Fetched HTML https://vivatechnology.com/partners/delegation-generale-a-lentreprenariat-rapide-des-femmes-et-des-jeunes
+2025-05-19 13:06:11,239 [INFO] [15] enriched DÉLÉGATION GÉNÉRALE À L’ENTREPRENARIAT RAPIDE DES FEMMES ET DES JEUNES
+2025-05-19 13:06:11,570 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:06:18,751 [DEBUG] Fetched HTML https://vivatechnology.com/partners/digiotouch-ou
+2025-05-19 13:06:18,836 [INFO] [16] enriched DIGIOTOUCH OU
+2025-05-19 13:06:19,171 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:06:26,756 [DEBUG] Fetched HTML https://vivatechnology.com/partners/e-reo
+2025-05-19 13:06:26,894 [INFO] [17] enriched E-REO
+2025-05-19 13:06:27,227 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:06:34,296 [DEBUG] Fetched HTML https://vivatechnology.com/partners/edtake
+2025-05-19 13:06:34,377 [INFO] [18] enriched EDTAKE
+2025-05-19 13:06:34,696 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:06:41,778 [DEBUG] Fetched HTML https://vivatechnology.com/partners/explore-media
+2025-05-19 13:06:41,873 [INFO] [19] enriched EXPLORE MEDIA
+2025-05-19 13:06:42,194 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:06:49,575 [DEBUG] Fetched HTML https://vivatechnology.com/partners/faciliti
+2025-05-19 13:06:49,659 [INFO] [20] enriched FACIL'ITI
+2025-05-19 13:06:49,987 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:06:56,928 [DEBUG] Fetched HTML https://vivatechnology.com/partners/formeazy
+2025-05-19 13:06:57,011 [INFO] [21] enriched FORMEAZY
+2025-05-19 13:06:57,338 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:07:04,537 [DEBUG] Fetched HTML https://vivatechnology.com/partners/gowizapp
+2025-05-19 13:07:04,618 [INFO] [22] enriched GOWIZAPP
+2025-05-19 13:07:04,946 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:07:12,586 [DEBUG] Fetched HTML https://vivatechnology.com/partners/hivenet
+2025-05-19 13:07:12,672 [INFO] [23] enriched HIVENET
+2025-05-19 13:07:12,998 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:07:20,098 [DEBUG] Fetched HTML https://vivatechnology.com/partners/inersio
+2025-05-19 13:07:20,179 [INFO] [24] enriched INERSIO
+2025-05-19 13:07:20,513 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:07:30,513 [DEBUG] Fetched HTML https://vivatechnology.com/partners/jobtaste
+2025-05-19 13:07:30,666 [INFO] [25] enriched JOBTASTE
+2025-05-19 13:07:31,009 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:07:37,974 [DEBUG] Fetched HTML https://vivatechnology.com/partners/juisci
+2025-05-19 13:07:38,058 [INFO] [26] enriched JUISCI
+2025-05-19 13:07:38,392 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:07:45,683 [DEBUG] Fetched HTML https://vivatechnology.com/partners/kokoro-lingua
+2025-05-19 13:07:45,767 [INFO] [27] enriched KOKORO LINGUA
+2025-05-19 13:07:46,123 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:07:53,696 [DEBUG] Fetched HTML https://vivatechnology.com/partners/l4box
+2025-05-19 13:07:53,780 [INFO] [28] enriched L4BOX
+2025-05-19 13:07:54,123 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:08:01,322 [DEBUG] Fetched HTML https://vivatechnology.com/partners/la-carte-des-talents
+2025-05-19 13:08:01,404 [INFO] [29] enriched LA CARTE DES TALENTS
+2025-05-19 13:08:01,733 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:08:08,775 [DEBUG] Fetched HTML https://vivatechnology.com/partners/la-rebelle-connect
+2025-05-19 13:08:08,861 [INFO] [30] enriched LA REBELLE CONNECT
+2025-05-19 13:08:09,190 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:08:16,522 [DEBUG] Fetched HTML https://vivatechnology.com/partners/la-touche-musicale
+2025-05-19 13:08:16,612 [INFO] [31] enriched LA TOUCHE MUSICALE
+2025-05-19 13:08:16,965 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:08:24,284 [DEBUG] Fetched HTML https://vivatechnology.com/partners/learning-robots
+2025-05-19 13:08:24,425 [INFO] [32] enriched LEARNING ROBOTS
+2025-05-19 13:08:24,752 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:08:34,076 [DEBUG] Fetched HTML https://vivatechnology.com/partners/leon
+2025-05-19 13:08:34,157 [INFO] [33] enriched LEON
+2025-05-19 13:08:34,482 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:08:42,032 [DEBUG] Fetched HTML https://vivatechnology.com/partners/mansa-talents
+2025-05-19 13:08:42,115 [INFO] [34] enriched MANSA TALENTS
+2025-05-19 13:08:42,452 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:08:49,510 [DEBUG] Fetched HTML https://vivatechnology.com/partners/mentaleco
+2025-05-19 13:08:49,591 [INFO] [35] enriched MENTALECO
+2025-05-19 13:08:49,920 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:08:56,992 [DEBUG] Fetched HTML https://vivatechnology.com/partners/minaclass
+2025-05-19 13:08:57,074 [INFO] [36] enriched MINACLASS
+2025-05-19 13:08:57,403 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:09:04,527 [DEBUG] Fetched HTML https://vivatechnology.com/partners/mist-studio
+2025-05-19 13:09:04,609 [INFO] [37] enriched MIST STUDIO
+2025-05-19 13:09:04,957 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:09:12,449 [DEBUG] Fetched HTML https://vivatechnology.com/partners/monelectrobox
+2025-05-19 13:09:12,531 [INFO] [38] enriched MONELECTROBOX
+2025-05-19 13:09:12,861 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:09:20,364 [DEBUG] Fetched HTML https://vivatechnology.com/partners/mover
+2025-05-19 13:09:20,445 [INFO] [39] enriched MOVER
+2025-05-19 13:09:20,773 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:09:27,847 [DEBUG] Fetched HTML https://vivatechnology.com/partners/myothesis
+2025-05-19 13:09:27,987 [INFO] [40] enriched MYOTHESIS
+2025-05-19 13:09:28,316 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:09:35,460 [DEBUG] Fetched HTML https://vivatechnology.com/partners/nolej
+2025-05-19 13:09:35,542 [INFO] [41] enriched NOLEJ
+2025-05-19 13:09:35,891 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:09:42,933 [DEBUG] Fetched HTML https://vivatechnology.com/partners/ohe-orthographe-heros
+2025-05-19 13:09:43,014 [INFO] [42] enriched OHÉ - ORTHOGRAPHE HÉROS
+2025-05-19 13:09:43,338 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:09:50,740 [DEBUG] Fetched HTML https://vivatechnology.com/partners/opencyber-ai
+2025-05-19 13:09:50,822 [INFO] [43] enriched OPENCYBER AI
+2025-05-19 13:09:51,148 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:09:58,656 [DEBUG] Fetched HTML https://vivatechnology.com/partners/orelis-sarl
+2025-05-19 13:09:58,742 [INFO] [44] enriched ORELIS SARL
+2025-05-19 13:09:59,093 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:10:06,293 [DEBUG] Fetched HTML https://vivatechnology.com/partners/ova-inc
+2025-05-19 13:10:06,377 [INFO] [45] enriched OVA INC.
+2025-05-19 13:10:06,715 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:10:14,519 [DEBUG] Fetched HTML https://vivatechnology.com/partners/palmai
+2025-05-19 13:10:14,604 [INFO] [46] enriched PALM.AI
+2025-05-19 13:10:14,927 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:10:22,398 [DEBUG] Fetched HTML https://vivatechnology.com/partners/playcurio-co-ltd
+2025-05-19 13:10:22,555 [INFO] [47] enriched PLAYCURIO CO., LTD.
+2025-05-19 13:10:22,890 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:10:29,822 [DEBUG] Fetched HTML https://vivatechnology.com/partners/pokamind
+2025-05-19 13:10:29,905 [INFO] [48] enriched POKAMIND
+2025-05-19 13:10:30,239 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:10:37,116 [DEBUG] Fetched HTML https://vivatechnology.com/partners/pollen
+2025-05-19 13:10:37,199 [INFO] [49] enriched POLLEN
+2025-05-19 13:10:37,526 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:10:44,929 [DEBUG] Fetched HTML https://vivatechnology.com/partners/quitus
+2025-05-19 13:10:45,012 [INFO] [50] enriched QUITUS
+2025-05-19 13:10:45,336 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:10:53,100 [DEBUG] Fetched HTML https://vivatechnology.com/partners/sayna
+2025-05-19 13:10:53,185 [INFO] [51] enriched SAYNA
+2025-05-19 13:10:53,510 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:11:00,621 [DEBUG] Fetched HTML https://vivatechnology.com/partners/scanlitt
+2025-05-19 13:11:00,702 [INFO] [52] enriched SCANLITT
+2025-05-19 13:11:01,034 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:11:11,882 [DEBUG] Fetched HTML https://vivatechnology.com/partners/starpalai
+2025-05-19 13:11:11,963 [INFO] [53] enriched STARPAL.AI
+2025-05-19 13:11:12,326 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:11:19,740 [DEBUG] Fetched HTML https://vivatechnology.com/partners/stewdy
+2025-05-19 13:11:19,879 [INFO] [54] enriched STEWDY
+2025-05-19 13:11:20,212 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:11:27,735 [DEBUG] Fetched HTML https://vivatechnology.com/partners/symplifai
+2025-05-19 13:11:27,816 [INFO] [55] enriched SYMPLIF.AI
+2025-05-19 13:11:28,148 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:11:35,274 [DEBUG] Fetched HTML https://vivatechnology.com/partners/taleme
+2025-05-19 13:11:35,356 [INFO] [56] enriched TALEME
+2025-05-19 13:11:35,688 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:11:43,374 [DEBUG] Fetched HTML https://vivatechnology.com/partners/tanjiblocks
+2025-05-19 13:11:43,458 [INFO] [57] enriched TANJIBLOCKS
+2025-05-19 13:11:43,787 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:11:51,126 [DEBUG] Fetched HTML https://vivatechnology.com/partners/ten-framework
+2025-05-19 13:11:51,209 [INFO] [58] enriched TEN FRAMEWORK
+2025-05-19 13:11:51,541 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:11:59,685 [DEBUG] Fetched HTML https://vivatechnology.com/partners/turing-space
+2025-05-19 13:11:59,767 [INFO] [59] enriched TURING SPACE
+2025-05-19 13:12:00,104 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:12:07,528 [DEBUG] Fetched HTML https://vivatechnology.com/partners/wilbi
+2025-05-19 13:12:07,612 [INFO] [60] enriched WILBI
+2025-05-19 13:12:07,951 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:12:15,540 [DEBUG] Fetched HTML https://vivatechnology.com/partners/yello
+2025-05-19 13:12:15,629 [INFO] [61] enriched YELLO
+2025-05-19 13:12:15,963 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:12:23,305 [DEBUG] Fetched HTML https://vivatechnology.com/partners/zaka
+2025-05-19 13:12:23,459 [INFO] [62] enriched ZAKA
+2025-05-19 13:12:23,789 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 13:12:30,854 [DEBUG] Fetched HTML https://vivatechnology.com/partners/zencoder
+2025-05-19 13:12:30,934 [INFO] [63] enriched ZENCODER
+2025-05-19 13:12:30,935 [INFO] Saved 63 rows to /home/fuji/VivaTech_/sector_companies.csv

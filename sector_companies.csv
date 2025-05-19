@@ -1,489 +1,89 @@
-name,partner_url,startup,categories
-.LUMEN,https://vivatechnology.com/partners/lumen,startup,Artificial Intelligence;Mobility & Smart Cities;Robotics
-1KM À PIED,https://vivatechnology.com/partners/1km-a-pied,startup,GovTech & Public sector;HR & Future of Work;Mobility & Smart Cities
-4DIVISION,https://vivatechnology.com/partners/4division,startup,Artificial Intelligence;Mobility & Smart Cities;Robotics
-AD'OCC - RÉGION OCCITANIE,https://vivatechnology.com/partners/adocc-region-occitanie,,"Artificial Intelligence;Deep Tech & Quantum Computing;Entertainment, Media & Creators Economy;Healthcare & Wellness;Mobility & Smart Cities"
-ADCIS - GROUPE EVOLUCARE,https://vivatechnology.com/partners/adcis-groupe-evolucare,startup,Artificial Intelligence;Healthcare & Wellness;Industry & Supply Chain
-ADVANCED RESONANCE KINETICS SA,https://vivatechnology.com/partners/advanced-resonance-kinetics-sa,startup,Deep Tech & Quantum Computing;Growth & Investment;Healthcare & Wellness
-ADVIZEO,https://vivatechnology.com/partners/advizeo,startup,Artificial Intelligence;Energy;Mobility & Smart Cities
-AFFLO TRANSPLANT MANAGEMENT,https://vivatechnology.com/partners/afflo-transplant-management,startup,Cloud & Infrastructure;Healthcare & Wellness
-AFRICATECH LAB,https://vivatechnology.com/partners/africatech-lab,,"Artificial Intelligence;Climate Tech;Fintech, Banking & Crypto;Healthcare & Wellness"
-AFRICHARGER,https://vivatechnology.com/partners/africharger,startup,Mobility & Smart Cities
-AGENCE UNIVERSITAIRE INNOVATION,https://vivatechnology.com/partners/agence-universitaire-innovation,startup,Artificial Intelligence;Healthcare & Wellness;Retail & E-commerce
-AI-STROKE,https://vivatechnology.com/partners/ai-stroke,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-AI4IV SRL,https://vivatechnology.com/partners/ai4iv-srl,startup,"Mobility & Smart Cities;Robotics;Space, Aeronautics & Defense"
-AICHI PREFECTURE,https://vivatechnology.com/partners/aichi-prefecture,,Consulting & B2B services;GovTech & Public sector;Mobility & Smart Cities
-AINDO,https://vivatechnology.com/partners/aindo,startup,Artificial Intelligence;Healthcare & Wellness;Insurance & Legal
-"AIRECO CO., LTD",https://vivatechnology.com/partners/aireco-co-ltd,startup,Climate Tech;Marketing & Advertising;Robotics
-AKIDAIA - OFFLINE ACCESS CONTROL,https://vivatechnology.com/partners/akidaia-offline-access-control,startup,GovTech & Public sector;Industry & Supply Chain;Mobility & Smart Cities
-AKIDAIA – OFFLINE ACCESS CONTROL,https://vivatechnology.com/partners/akidaia-offline-access-control,startup,GovTech & Public sector;Industry & Supply Chain;Mobility & Smart Cities
-AKILA,https://vivatechnology.com/partners/akila,startup,Artificial Intelligence;Energy;Mobility & Smart Cities
-AKIVI,https://vivatechnology.com/partners/akivi,startup,Data Management & CRM;EdTech;Healthcare & Wellness
-ALATYR,https://vivatechnology.com/partners/alatyr,startup,"Artificial Intelligence;Robotics;Space, Aeronautics & Defense"
-ALL GOOD ENERGY POWERED BY MOLICEL,https://vivatechnology.com/partners/all-good-energy-powered-by-molicel,startup,"Energy;Mobility & Smart Cities;Space, Aeronautics & Defense"
-ALLERGENIUS,https://vivatechnology.com/partners/allergenius,startup,Artificial Intelligence;Healthcare & Wellness;Retail & E-commerce
-ALLIANTECH,https://vivatechnology.com/partners/alliantech,startup,"Artificial Intelligence;Robotics;Space, Aeronautics & Defense"
-ALLTHEWAY,https://vivatechnology.com/partners/alltheway,startup,Artificial Intelligence;Industry & Supply Chain;Mobility & Smart Cities
-ALTYOR,https://vivatechnology.com/partners/altyor,startup,Industry & Supply Chain;Mobility & Smart Cities;Robotics
-AMSO CARE,https://vivatechnology.com/partners/amso-care,startup,Mobility & Smart Cities
-ANDYAMO,https://vivatechnology.com/partners/andyamo,startup,Diversity & Inclusion;GovTech & Public sector;Mobility & Smart Cities
-ANEMON SENSORS,https://vivatechnology.com/partners/anemon-sensors,startup,Deep Tech & Quantum Computing;Healthcare & Wellness;Industry & Supply Chain
-ANIMA,https://vivatechnology.com/partners/anima,startup,Artificial Intelligence;HR & Future of Work;Healthcare & Wellness
-ANIMIA,https://vivatechnology.com/partners/animia,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-ANIVANCE AI,https://vivatechnology.com/partners/anivance-ai,startup,Artificial Intelligence;Healthcare & Wellness
-APEXBRASIL,https://vivatechnology.com/partners/apexbrasil,,"Fintech, Banking & Crypto;Food & Agriculture;Growth & Investment;Mobility & Smart Cities"
-APNOLAB,https://vivatechnology.com/partners/apnolab,startup,Artificial Intelligence;Healthcare & Wellness
-APREX,https://vivatechnology.com/partners/aprex,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-AQEMIA,https://vivatechnology.com/partners/aqemia,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-ARSÈNE,https://vivatechnology.com/partners/arsene,startup,Food & Agriculture;Healthcare & Wellness;Marketing & Advertising
-"ASHIRASE, INC.",https://vivatechnology.com/partners/ashirase-inc,startup,Diversity & Inclusion;Healthcare & Wellness;Mobility & Smart Cities
-ASSOCIATION ANTOINE ALLÉNO,https://vivatechnology.com/partners/association-antoine-alleno,,Artificial Intelligence;GovTech & Public sector;Healthcare & Wellness;Insurance & Legal;Mobility & Smart Cities
-AUDIODEEM,https://vivatechnology.com/partners/audiodeem,startup,Artificial Intelligence;Healthcare & Wellness
-AUGMEDI AG,https://vivatechnology.com/partners/augmedi-ag,startup,EdTech;Growth & Investment;Healthcare & Wellness
-AUMET,https://vivatechnology.com/partners/aumet,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-AURIZEO,https://vivatechnology.com/partners/aurizeo,startup,Consulting & B2B services;HR & Future of Work;Mobility & Smart Cities
-AUTOKEYBO LIMITED,https://vivatechnology.com/partners/autokeybo-limited,startup,Artificial Intelligence;Diversity & Inclusion;Robotics
-AVATAR MOBILITÉ,https://vivatechnology.com/partners/avatar-mobilite,startup,Growth & Investment;Industry & Supply Chain;Mobility & Smart Cities
-AWAREK,https://vivatechnology.com/partners/awarek,startup,"Cloud & Infrastructure;Connectivity, Cloud & Infrastructure;Robotics"
-AXELIFE,https://vivatechnology.com/partners/axelife,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-BADDY PLUME,https://vivatechnology.com/partners/baddy-plume,startup,Artificial Intelligence;Robotics;Sports
-BE PARENTALIS,https://vivatechnology.com/partners/be-parentalis,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-BEEV,https://vivatechnology.com/partners/beev,startup,Consulting & B2B services;Energy;Mobility & Smart Cities
-BIOLEVATE,https://vivatechnology.com/partners/biolevate,startup,Artificial Intelligence;Healthcare & Wellness;Industry & Supply Chain
-BIOM RESEARCH PROJECT,https://vivatechnology.com/partners/biom-research-project,startup,Climate Tech;Food & Agriculture;Robotics
-BIOTEOS,https://vivatechnology.com/partners/bioteos,startup,Climate Tech;Healthcare & Wellness;Mobility & Smart Cities
-BIOTEOS,https://vivatechnology.com/partners/bioteos-2,startup,Climate Tech;Healthcare & Wellness;Mobility & Smart Cities
-BIOTEOS,https://vivatechnology.com/partners/bioteos,startup,Climate Tech;Healthcare & Wellness;Mobility & Smart Cities
-BIOVOX,https://vivatechnology.com/partners/biovox,startup,Climate Tech;Healthcare & Wellness
-BLATRON,https://vivatechnology.com/partners/blatron,startup,EdTech;GovTech & Public sector;Healthcare & Wellness
-BLOCTOBUILD,https://vivatechnology.com/partners/bloctobuild,startup,Climate Tech;Industry & Supply Chain;Mobility & Smart Cities
-BLUE SMART ROBOTICS,https://vivatechnology.com/partners/blue-smart-robotics,startup,Artificial Intelligence;Robotics
-BOARDING RING,https://vivatechnology.com/partners/boarding-ring,startup,"Healthcare & Wellness;Mobility & Smart Cities;Space, Aeronautics & Defense"
-BOBO APP LTD,https://vivatechnology.com/partners/bobo-app-ltd,startup,Artificial Intelligence;Healthcare & Wellness;Retail & E-commerce
-BORDA TECHNOLOGY,https://vivatechnology.com/partners/borda-technology,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-BOTRONICS,https://vivatechnology.com/partners/botronics,startup,Artificial Intelligence;Robotics
-BOUYGUES,https://vivatechnology.com/partners/bouygues,,Artificial Intelligence;Climate Tech;Diversity & Inclusion;Energy;Mobility & Smart Cities
-BRAILLIC LIMITED,https://vivatechnology.com/partners/braillic-limited,startup,Artificial Intelligence;Healthcare & Wellness
-BRIKAWOOD,https://vivatechnology.com/partners/brikawood,startup,Climate Tech;Energy;Mobility & Smart Cities
-BUSINESS FRANCE,https://vivatechnology.com/partners/business-france,,Artificial Intelligence;Climate Tech;Deep Tech & Quantum Computing;Healthcare & Wellness
-BUSINESS METROPOLE RUHR GMBH,https://vivatechnology.com/partners/business-metropole-ruhr-gmbh,,Cybersecurity;Energy;Healthcare & Wellness
-BUYUTECH,https://vivatechnology.com/partners/buyutech,startup,Artificial Intelligence;Growth & Investment;Mobility & Smart Cities
-BYE BLUES,https://vivatechnology.com/partners/bye-blues,startup,Healthcare & Wellness;Industry & Supply Chain;Retail & E-commerce
-BYOME LABS,https://vivatechnology.com/partners/byome-labs,startup,Artificial Intelligence;Healthcare & Wellness;Industry & Supply Chain
-BYORNA,https://vivatechnology.com/partners/byorna,startup,Deep Tech & Quantum Computing;Healthcare & Wellness;Industry & Supply Chain
-CAMBRIUM,https://vivatechnology.com/partners/cambrium,startup,"Artificial Intelligence;Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-CAPOOM,https://vivatechnology.com/partners/capoom,startup,Artificial Intelligence;Mobility & Smart Cities;Robotics
-CAPTAIN BLINK,https://vivatechnology.com/partners/captain-blink,startup,Industry & Supply Chain;Mobility & Smart Cities;Retail & E-commerce
-CELESTE ECOFLYERS,https://vivatechnology.com/partners/celeste-ecoflyers,startup,"Industry & Supply Chain;Mobility & Smart Cities;Space, Aeronautics & Defense"
-CELLEX SRL,https://vivatechnology.com/partners/cellex-srl,startup,Healthcare & Wellness;Industry & Supply Chain;Marketing & Advertising
-CEZIGUE.IO,https://vivatechnology.com/partners/cezigueio,startup,Artificial Intelligence;Mobility & Smart Cities
-CHEN KAI TECH,https://vivatechnology.com/partners/chen-kai-tech,startup,GovTech & Public sector;Mobility & Smart Cities;Robotics
-CHIPIRON,https://vivatechnology.com/partners/chipiron,startup,Deep Tech & Quantum Computing;Healthcare & Wellness
-CHOOSE PARIS REGION,https://vivatechnology.com/partners/choose-paris-region,,Artificial Intelligence;Deep Tech & Quantum Computing;Energy;Healthcare & Wellness
-CITY OF DUSSELDORF ECONOMIC DEVELOPMENT,https://vivatechnology.com/partners/city-of-dusseldorf-economic-development,,"Climate Tech;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-CITY OF KYOTO,https://vivatechnology.com/partners/city-of-kyoto,,Deep Tech & Quantum Computing;Energy;GovTech & Public sector;Healthcare & Wellness
-CITYCODE,https://vivatechnology.com/partners/citycode,startup,Artificial Intelligence;GovTech & Public sector;Mobility & Smart Cities
-CLEANTECH OPEN FRANCE,https://vivatechnology.com/partners/cleantech-open-france,,Climate Tech;Energy;Industry & Supply Chain;Mobility & Smart Cities
-CLINICAL MANAGEMENT SYSTEMS,https://vivatechnology.com/partners/clinical-management-systems,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-CNRS,https://vivatechnology.com/partners/cnrs,,Climate Tech;Deep Tech & Quantum Computing;Energy;Food & Agriculture;Healthcare & Wellness
-COLLECTIVITÉ DE CORSE - ADEC AGENCE DE DÉVELOPPEMENT ECONOMIQUE DE LA CORSE,https://vivatechnology.com/partners/collectivite-de-corse-adec-agence-de-developpement-economique-de-la-corse,,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Gaming & Esports;Healthcare & Wellness"
-COPERNILABS,https://vivatechnology.com/partners/copernilabs,startup,"Industry & Supply Chain;Mobility & Smart Cities;Space, Aeronautics & Defense"
-COR.SYNC,https://vivatechnology.com/partners/corsync,startup,Deep Tech & Quantum Computing;Healthcare & Wellness;Robotics
-CORBERAN PARTS,https://vivatechnology.com/partners/corberan-parts,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-CORNEASIGHT,https://vivatechnology.com/partners/corneasight,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-CSC ROBOTIC ENGINEERING LIMITED,https://vivatechnology.com/partners/csc-robotic-engineering-limited,startup,GovTech & Public sector;Growth & Investment;Robotics
-CYBER4CARE - ARCHIFY.FR -,https://vivatechnology.com/partners/cyber4care-archifyfr,startup,Artificial Intelligence;Cybersecurity;Healthcare & Wellness
-DATAOFFICER,https://vivatechnology.com/partners/dataofficer,startup,Artificial Intelligence;Healthcare & Wellness
-DATUS,https://vivatechnology.com/partners/datus,startup,Food & Agriculture;Healthcare & Wellness;Sports
-DEEP IOTECH,https://vivatechnology.com/partners/deep-iotech,startup,GovTech & Public sector;Growth & Investment;Healthcare & Wellness
-DEEPLIFE,https://vivatechnology.com/partners/deeplife,startup,Artificial Intelligence;Food & Agriculture;Healthcare & Wellness
-DÉLÉGATION GÉNÉRALE À L’ENTREPRENARIAT RAPIDE DES FEMMES ET DES JEUNES,https://vivatechnology.com/partners/delegation-generale-a-lentreprenariat-rapide-des-femmes-et-des-jeunes,,"EdTech;Fintech, Banking & Crypto;Food & Agriculture;Healthcare & Wellness"
-DENKWEIT GMBH,https://vivatechnology.com/partners/denkweit-gmbh,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-DESK,https://vivatechnology.com/partners/desk,startup,Artificial Intelligence;Cloud & Infrastructure;Mobility & Smart Cities
-DETERA THERAPEUTICS,https://vivatechnology.com/partners/detera-therapeutics,startup,Growth & Investment;Healthcare & Wellness
-DEUTSCHES FORSCHUNGSZENTRUM FÜR KÜNSTLICHE INTELLIGENZ DFKI,https://vivatechnology.com/partners/deutsches-forschungszentrum-fur-kunstliche-intelligenz-dfki,,Artificial Intelligence;Industry & Supply Chain;Robotics
-DEVPOINT,https://vivatechnology.com/partners/devpoint,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Robotics"
-DI&CARE,https://vivatechnology.com/partners/dicare,startup,Healthcare & Wellness
-DIAGEN AI. INC,https://vivatechnology.com/partners/diagen-ai-inc,startup,Artificial Intelligence;Healthcare & Wellness
-DIENG INNOVATION,https://vivatechnology.com/partners/dieng-innovation,startup,Diversity & Inclusion;GovTech & Public sector;Healthcare & Wellness
-DIGISKIN,https://vivatechnology.com/partners/digiskin,startup,Deep Tech & Quantum Computing;Diversity & Inclusion;Healthcare & Wellness
-DOCNKIT,https://vivatechnology.com/partners/docnkit,startup,Healthcare & Wellness
-DOMELIOR,https://vivatechnology.com/partners/domelior,startup,Artificial Intelligence;Consulting & B2B services;Healthcare & Wellness
-DOTFLOW,https://vivatechnology.com/partners/dotflow,startup,Industry & Supply Chain;Mobility & Smart Cities;Robotics
-DOUZEPOINTCINQ,https://vivatechnology.com/partners/douzepointcinq,startup,Industry & Supply Chain;Mobility & Smart Cities;Retail & E-commerce
-DOVE INNOVATIONS,https://vivatechnology.com/partners/dove-innovations,startup,"Connectivity, Cloud & Infrastructure;Energy;Mobility & Smart Cities"
-DOXANANO,https://vivatechnology.com/partners/doxanano,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-DRAPP,https://vivatechnology.com/partners/drapp,startup,Growth & Investment;Healthcare & Wellness;Insurance & Legal
-DRIMAES,https://vivatechnology.com/partners/drimaes,startup,"Cloud & Infrastructure;Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-DROOPLE,https://vivatechnology.com/partners/droople,startup,Climate Tech;Energy;Healthcare & Wellness
-ECTOR,https://vivatechnology.com/partners/ector,startup,Artificial Intelligence;Mobility & Smart Cities;Retail & E-commerce
-EKA SURGERY,https://vivatechnology.com/partners/eka-surgery,startup,Artificial Intelligence;Healthcare & Wellness
-ELECTRA,https://vivatechnology.com/partners/electra-2,startup,Energy;Mobility & Smart Cities
-ELECTRIC OASIS,https://vivatechnology.com/partners/electric-oasis,startup,Growth & Investment;Mobility & Smart Cities
-ELPYOO,https://vivatechnology.com/partners/elpyoo,startup,Diversity & Inclusion;HR & Future of Work;Healthcare & Wellness
-ELSEE,https://vivatechnology.com/partners/elsee,startup,HR & Future of Work;Healthcare & Wellness;Insurance & Legal
-EMOVO CARE,https://vivatechnology.com/partners/emovo-care,startup,Growth & Investment;Healthcare & Wellness;Robotics
-"ENDOSEMIO CO., LTD.",https://vivatechnology.com/partners/endosemio-co-ltd,startup,Consulting & B2B services;Food & Agriculture;Healthcare & Wellness
-ENTERPRISE ARMENIA,https://vivatechnology.com/partners/enterprise-armenia,startup,Industry & Supply Chain;Robotics
-EONA-X,https://vivatechnology.com/partners/eona-x,startup,Artificial Intelligence;Data Management & CRM;Mobility & Smart Cities
-EPICNPOC,https://vivatechnology.com/partners/epicnpoc,startup,"Mobility & Smart Cities;Space, Aeronautics & Defense"
-EPITOMEA,https://vivatechnology.com/partners/epitomea,startup,Healthcare & Wellness
-ERDE,https://vivatechnology.com/partners/erde,startup,Energy;Industry & Supply Chain;Robotics
-ESPAGNE - INVEST IN MADRID,https://vivatechnology.com/partners/espagne-invest-in-madrid,,"Growth & Investment;Healthcare & Wellness;Mobility & Smart Cities;Space, Aeronautics & Defense"
-ETHIQAIS,https://vivatechnology.com/partners/ethiqais,startup,Artificial Intelligence;Healthcare & Wellness;Insurance & Legal
-EUROMETROPOLE DE STRASBOURG,https://vivatechnology.com/partners/eurometropole-de-strasbourg,,"Climate Tech;Deep Tech & Quantum Computing;Entertainment, Media & Creators Economy;Healthcare & Wellness"
-EUROPEAN COMMISSION - DG CONNECT,https://vivatechnology.com/partners/european-commission-dg-connect,,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;GovTech & Public sector;Robotics"
-EX9,https://vivatechnology.com/partners/ex9,startup,Industry & Supply Chain;Mobility & Smart Cities;Robotics
-EXELIOM BIOSCIENCES,https://vivatechnology.com/partners/exeliom-biosciences,startup,Deep Tech & Quantum Computing;Growth & Investment;Healthcare & Wellness
-EXOSOME ANALYTICS,https://vivatechnology.com/partners/exosome-analytics,startup,Growth & Investment;Healthcare & Wellness;Robotics
-EXPLAIN,https://vivatechnology.com/partners/explain,startup,Artificial Intelligence;GovTech & Public sector;Mobility & Smart Cities
-EXPLORE MEDIA,https://vivatechnology.com/partners/explore-media,,"EdTech;Entertainment, Media & Creators Economy;Marketing & Advertising;Robotics"
-EXTRACTHIVE,https://vivatechnology.com/partners/extracthive,startup,"Mobility & Smart Cities;Space, Aeronautics & Defense;Sports"
-EXWAYZ,https://vivatechnology.com/partners/exwayz,startup,Deep Tech & Quantum Computing;Industry & Supply Chain;Robotics
-EZYMOB,https://vivatechnology.com/partners/ezymob,startup,Artificial Intelligence;Diversity & Inclusion;Mobility & Smart Cities
-FAACTOPI,https://vivatechnology.com/partners/faactopi,startup,"Healthcare & Wellness;Robotics;Space, Aeronautics & Defense"
-FEMNOV,https://vivatechnology.com/partners/femnov,startup,Artificial Intelligence;Consulting & B2B services;Healthcare & Wellness
-FEMTECH FRANCE,https://vivatechnology.com/partners/femtech-france,,Diversity & Inclusion;Healthcare & Wellness
-FIZIMED,https://vivatechnology.com/partners/fizimed,startup,Healthcare & Wellness
-FIZIX,https://vivatechnology.com/partners/fizix,startup,Energy;Growth & Investment;Mobility & Smart Cities
-FLYRENOV,https://vivatechnology.com/partners/flyrenov,startup,Artificial Intelligence;Climate Tech;Robotics
-FLYTE,https://vivatechnology.com/partners/flyte,startup,Climate Tech;Mobility & Smart Cities
-FOCOOS AI,https://vivatechnology.com/partners/focoos-ai,startup,"Artificial Intelligence;Mobility & Smart Cities;Space, Aeronautics & Defense"
-FONCIÈRE PROSPER,https://vivatechnology.com/partners/fonciere-prosper,startup,"Fintech, Banking & Crypto;Growth & Investment;Healthcare & Wellness"
-FORETELL MY HEALTH,https://vivatechnology.com/partners/foretell-my-health,startup,Growth & Investment;Healthcare & Wellness;Insurance & Legal
-FORMATION BIO,https://vivatechnology.com/partners/formation-bio,startup,Artificial Intelligence;Healthcare & Wellness
-FOUR DATA,https://vivatechnology.com/partners/four-data,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-FRAUNHOFER-GESELLSCHAFT,https://vivatechnology.com/partners/fraunhofer-gesellschaft,,Artificial Intelligence;Healthcare & Wellness;Robotics
-FRENCH KOREAN CHAMBER OF COMMERCE AND INDUSTRY,https://vivatechnology.com/partners/french-korean-chamber-of-commerce-and-industry,,"Artificial Intelligence;Energy;Luxury, Fashion & Cosmetics;Mobility & Smart Cities"
-FTEX INC.,https://vivatechnology.com/partners/ftex-inc,startup,"Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-FUNARTECH INC,https://vivatechnology.com/partners/funartech-inc,startup,Artificial Intelligence;Industry & Supply Chain;Mobility & Smart Cities
-FUNARTECH SAS,https://vivatechnology.com/partners/funartech-sas,startup,Artificial Intelligence;Industry & Supply Chain;Mobility & Smart Cities
-GENERAL ROBOTICS,https://vivatechnology.com/partners/general-robotics,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-GEOMATE INC,https://vivatechnology.com/partners/geomate-inc,startup,Artificial Intelligence;Consulting & B2B services;Mobility & Smart Cities
-GLOBAL ID SA,https://vivatechnology.com/partners/global-id-sa,startup,Cybersecurity;GovTech & Public sector;Healthcare & Wellness
-GODSPEED IT SERVICE,https://vivatechnology.com/partners/godspeed-it-service,startup,Artificial Intelligence;Cybersecurity;Mobility & Smart Cities
-GOODBARBER,https://vivatechnology.com/partners/goodbarber,startup,Artificial Intelligence;Retail & E-commerce;Robotics
-GR33T,https://vivatechnology.com/partners/gr33t,startup,Climate Tech;HR & Future of Work;Healthcare & Wellness
-GRAVIPACK,https://vivatechnology.com/partners/gravipack,startup,Healthcare & Wellness;Industry & Supply Chain;Retail & E-commerce
-GREEN COMMUNICATIONS,https://vivatechnology.com/partners/green-communications,startup,"Connectivity, Cloud & Infrastructure;Cybersecurity;Robotics"
-GREEN EDGE COMPUTING CORP. (GECCO),https://vivatechnology.com/partners/green-edge-computing-corp-gecco,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-GREEN PRAXIS,https://vivatechnology.com/partners/green-praxis,startup,Mobility & Smart Cities
-GROUPE SNCF,https://vivatechnology.com/partners/groupe-sncf,,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Cybersecurity;Data Management & CRM;Mobility & Smart Cities"
-GYEONGGI-DO DX ZONE,https://vivatechnology.com/partners/gyeonggi-do-dx-zone,,Artificial Intelligence;Deep Tech & Quantum Computing;Industry & Supply Chain;Mobility & Smart Cities
-HAIRCOSYS LIMITED,https://vivatechnology.com/partners/haircosys-limited,startup,Artificial Intelligence;Healthcare & Wellness;Retail & E-commerce
-HANDIROAD,https://vivatechnology.com/partners/handiroad,startup,Artificial Intelligence;Diversity & Inclusion;Mobility & Smart Cities
-HANYANG INSTITUTE FOR ENTREPRENEURSHIP,https://vivatechnology.com/partners/hanyang-institute-for-entrepreneurship,,Artificial Intelligence;Energy;Healthcare & Wellness
-HAPPLYZ MEDICAL,https://vivatechnology.com/partners/happlyz-medical,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-HÂPY SERVICES,https://vivatechnology.com/partners/hapy-services,startup,"Connectivity, Cloud & Infrastructure;Cybersecurity;Mobility & Smart Cities"
-HARMONIX,https://vivatechnology.com/partners/harmonix,startup,Healthcare & Wellness
-HENDDU,https://vivatechnology.com/partners/henddu,startup,Climate Tech;GovTech & Public sector;Mobility & Smart Cities
-HEXACODE SOLUTIONS,https://vivatechnology.com/partners/hexacode-solutions,startup,Energy;Industry & Supply Chain;Mobility & Smart Cities
-HEXADONE,https://vivatechnology.com/partners/hexadone,startup,Artificial Intelligence;GovTech & Public sector;Mobility & Smart Cities
-HIRO HEALTH,https://vivatechnology.com/partners/hiro-health,startup,GovTech & Public sector;Growth & Investment;Healthcare & Wellness
-HKVOR,https://vivatechnology.com/partners/hkvor,startup,Food & Agriculture;Healthcare & Wellness;Retail & E-commerce
-HMB,https://vivatechnology.com/partners/hmb,startup,"Artificial Intelligence;Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-HOME POTAGER,https://vivatechnology.com/partners/home-potager,startup,Food & Agriculture;Healthcare & Wellness;Marketing & Advertising
-HONG KONG TECH PAVILION,https://vivatechnology.com/partners/hong-kong-tech-pavilion,,"Artificial Intelligence;Climate Tech;Fintech, Banking & Crypto;Growth & Investment;Healthcare & Wellness"
-HOPMED,https://vivatechnology.com/partners/hopmed,startup,Artificial Intelligence;Healthcare & Wellness
-HOPWAYS,https://vivatechnology.com/partners/hopways,startup,Mobility & Smart Cities
-"HUA TEC INTERNATIONAL CO., LTD.",https://vivatechnology.com/partners/hua-tec-international-co-ltd,startup,Healthcare & Wellness
-HUMAN-MOB,https://vivatechnology.com/partners/human-mob,startup,GovTech & Public sector;Mobility & Smart Cities;Sports
-IA MEDICAL,https://vivatechnology.com/partners/ia-medical,startup,Artificial Intelligence;Diversity & Inclusion;Healthcare & Wellness
-IAVC,https://vivatechnology.com/partners/iavc,startup,Growth & Investment;Healthcare & Wellness;Mobility & Smart Cities
-IDCITI,https://vivatechnology.com/partners/idciti,startup,"Connectivity, Cloud & Infrastructure;GovTech & Public sector;Mobility & Smart Cities"
-IGLOBE SCIENTIFIC SAS,https://vivatechnology.com/partners/iglobe-scientific-sas,startup,Artificial Intelligence;Consulting & B2B services;Healthcare & Wellness
-IM'TECH,https://vivatechnology.com/partners/imtech,startup,Artificial Intelligence;Healthcare & Wellness;Industry & Supply Chain
-IMPACT BRIDGE,https://vivatechnology.com/partners/impact-bridge,,Artificial Intelligence;Climate Tech;Diversity & Inclusion;Food & Agriculture;Mobility & Smart Cities
-"IMSIGHT TECHNOLOGY CO., LIMITED",https://vivatechnology.com/partners/imsight-technology-co-limited,startup,Artificial Intelligence;GovTech & Public sector;Healthcare & Wellness
-IN SITU CELL THERAPY,https://vivatechnology.com/partners/in-situ-cell-therapy,startup,Growth & Investment;Healthcare & Wellness
-INBOLT,https://vivatechnology.com/partners/inbolt,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-INITIATIVE FRANCE,https://vivatechnology.com/partners/initiative-france,,Artificial Intelligence;Diversity & Inclusion;Healthcare & Wellness;Industry & Supply Chain
-INN'PULSE,https://vivatechnology.com/partners/innpulse,startup,Energy;Healthcare & Wellness;Industry & Supply Chain
-INNOHK D²4H,https://vivatechnology.com/partners/innohk-d4h,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-INSIDE THERAPEUTICS,https://vivatechnology.com/partners/inside-therapeutics,startup,GovTech & Public sector;Growth & Investment;Healthcare & Wellness
-INSIMILI SRL,https://vivatechnology.com/partners/insimili-srl,startup,Deep Tech & Quantum Computing;Food & Agriculture;Healthcare & Wellness
-INSTITUT GUSTAVE ROUSSY / GUSTAVE ROUSSY TRANSFERT,https://vivatechnology.com/partners/institut-gustave-roussy-gustave-roussy-transfert,,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-INSTITUT POLYTECHNIQUE DE PARIS,https://vivatechnology.com/partners/institut-polytechnique-de-paris,,"Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness;Space, Aeronautics & Defense"
-INTELLIGENTX GMBH,https://vivatechnology.com/partners/intelligentx-gmbh,startup,Food & Agriculture;Healthcare & Wellness
-INTEMPO,https://vivatechnology.com/partners/intempo,startup,"Artificial Intelligence;Entertainment, Media & Creators Economy;Healthcare & Wellness"
-INUI STUDIO,https://vivatechnology.com/partners/inui-studio,startup,GovTech & Public sector;Mobility & Smart Cities;Retail & E-commerce
-INVEST IN LODZ (CENTRAL POLAND),https://vivatechnology.com/partners/invest-in-lodz-central-poland,,Cloud & Infrastructure;GovTech & Public sector;Growth & Investment;Mobility & Smart Cities
-ION MEMBRANES,https://vivatechnology.com/partners/ion-membranes,startup,Climate Tech;Energy;Mobility & Smart Cities
-IOZ BIOTECH,https://vivatechnology.com/partners/ioz-biotech,startup,Deep Tech & Quantum Computing;GovTech & Public sector;Healthcare & Wellness
-IRIDESENSE,https://vivatechnology.com/partners/iridesense,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-ISTYA,https://vivatechnology.com/partners/istya,startup,Artificial Intelligence;Healthcare & Wellness;Mobility & Smart Cities
-JAPAN VILLAGE WITH 4 LOCAL GOVERNMENTS,https://vivatechnology.com/partners/japan-village-with-4-local-governments,,Artificial Intelligence;Deep Tech & Quantum Computing;Industry & Supply Chain;Robotics
-JAPET MEDICAL,https://vivatechnology.com/partners/japet-medical,startup,Healthcare & Wellness;Industry & Supply Chain;Robotics
-JCDECAUX,https://vivatechnology.com/partners/jcdecaux,,"Entertainment, Media & Creators Economy;GovTech & Public sector;Marketing & Advertising;Mobility & Smart Cities"
-JUISCI,https://vivatechnology.com/partners/juisci,startup,Artificial Intelligence;EdTech;Healthcare & Wellness
-JUMBO MANA,https://vivatechnology.com/partners/jumbo-mana-2,startup,Artificial Intelligence;Mobility & Smart Cities
-JUMBO MANA,https://vivatechnology.com/partners/jumbo-mana,startup,Artificial Intelligence;Mobility & Smart Cities
-K-STARTUP,https://vivatechnology.com/partners/k-startup,startup,Artificial Intelligence;Data Management & CRM;Energy;Healthcare & Wellness;Mobility & Smart Cities
-KALYSTA ACTUATION,https://vivatechnology.com/partners/kalysta-actuation,startup,Industry & Supply Chain;Robotics
-KAPSYS,https://vivatechnology.com/partners/kapsys,startup,Artificial Intelligence;Healthcare & Wellness
-KARBIKES,https://vivatechnology.com/partners/karbikes,startup,Climate Tech;Industry & Supply Chain;Mobility & Smart Cities
-KERVALION,https://vivatechnology.com/partners/kervalion,startup,Healthcare & Wellness
-KLAIMY,https://vivatechnology.com/partners/klaimy,startup,Artificial Intelligence;Healthcare & Wellness;Insurance & Legal
-KLIPSPRINGER UG,https://vivatechnology.com/partners/klipspringer-ug,startup,Healthcare & Wellness;Industry & Supply Chain;Mobility & Smart Cities
-KOLEKTIVOLT,https://vivatechnology.com/partners/kolektivolt,startup,Energy;Mobility & Smart Cities
-KOREA SPORTS PROMOTION FOUNDATION,https://vivatechnology.com/partners/korea-sports-promotion-foundation,,GovTech & Public sector;Healthcare & Wellness;Sports
-KOSME (KOREA SMES & STARTUPS AGENCY),https://vivatechnology.com/partners/kosme-korea-smes-startups-agency,startup,"Artificial Intelligence;Luxury, Fashion & Cosmetics;Mobility & Smart Cities;Retail & E-commerce"
-KUMULUS,https://vivatechnology.com/partners/kumulus,startup,Climate Tech;Healthcare & Wellness
-KWARTO.,https://vivatechnology.com/partners/kwarto,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-KWARTO.,https://vivatechnology.com/partners/kwarto-2,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-KWIT,https://vivatechnology.com/partners/kwit,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-L'INCUBATEUR SCIENCES & VIE,https://vivatechnology.com/partners/lincubateur-sciences-vie,,"Artificial Intelligence;Energy;Mobility & Smart Cities;Space, Aeronautics & Defense"
-L'OREAL GROUPE,https://vivatechnology.com/partners/loreal-groupe,,"Artificial Intelligence;Entertainment, Media & Creators Economy;Healthcare & Wellness;Luxury, Fashion & Cosmetics;Marketing & Advertising"
-L&SMART,https://vivatechnology.com/partners/lsmart,startup,Climate Tech;Energy;Mobility & Smart Cities
-LA POSTE GROUPE,https://vivatechnology.com/partners/la-poste-groupe,,Artificial Intelligence;Cloud & Infrastructure;HR & Future of Work;Mobility & Smart Cities;Retail & E-commerce
-LA SENTINELLE,https://vivatechnology.com/partners/la-sentinelle,startup,Energy;Healthcare & Wellness;Marketing & Advertising
-LACESS LIMITED,https://vivatechnology.com/partners/lacess-limited,startup,"Artificial Intelligence;Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-LE RÉSEAU DES CARNOT,https://vivatechnology.com/partners/le-reseau-des-carnot,,Artificial Intelligence;Energy;Healthcare & Wellness;Mobility & Smart Cities
-LEARNING ROBOTS,https://vivatechnology.com/partners/learning-robots,startup,Artificial Intelligence;EdTech;Robotics
-LEMO,https://vivatechnology.com/partners/lemo,,"Industry & Supply Chain;Robotics;Space, Aeronautics & Defense"
-LEMON MOTION,https://vivatechnology.com/partners/lemon-motion,startup,Mobility & Smart Cities;Retail & E-commerce
-LEON,https://vivatechnology.com/partners/leon,startup,"EdTech;Entertainment, Media & Creators Economy;Healthcare & Wellness"
-LES GUIBOLES,https://vivatechnology.com/partners/les-guiboles,startup,Diversity & Inclusion;Mobility & Smart Cities
-LES MARTINES,https://vivatechnology.com/partners/les-martines,startup,Artificial Intelligence;Diversity & Inclusion;Healthcare & Wellness
-LIGHTSONIC,https://vivatechnology.com/partners/lightsonic,startup,Artificial Intelligence;Cloud & Infrastructure;Mobility & Smart Cities
-LILI FOR LIFE,https://vivatechnology.com/partners/lili-for-life,startup,Diversity & Inclusion;HR & Future of Work;Healthcare & Wellness
-LINDO,https://vivatechnology.com/partners/lindo,startup,GovTech & Public sector;Growth & Investment;Healthcare & Wellness
-LINNÉ PAYSAGE,https://vivatechnology.com/partners/linne-paysage,startup,Climate Tech;Growth & Investment;Healthcare & Wellness
-LIUM,https://vivatechnology.com/partners/lium,startup,"GovTech & Public sector;Robotics;Space, Aeronautics & Defense"
-LORETTA,https://vivatechnology.com/partners/loretta,startup,"Artificial Intelligence;Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-LOTTECHNOLOGY,https://vivatechnology.com/partners/lottechnology,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-LUCIDIA,https://vivatechnology.com/partners/lucidia,startup,Artificial Intelligence;GovTech & Public sector;Healthcare & Wellness
-LYNXDRONE,https://vivatechnology.com/partners/lynxdrone,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-MAASIRNA,https://vivatechnology.com/partners/maasirna,startup,Healthcare & Wellness
-MACNICA ATD EUROPE,https://vivatechnology.com/partners/macnica-atd-europe,,Artificial Intelligence;Food & Agriculture;Industry & Supply Chain;Mobility & Smart Cities
-MAILLON MOBILITY,https://vivatechnology.com/partners/maillon-mobility,startup,GovTech & Public sector;Mobility & Smart Cities
-MAND.RO,https://vivatechnology.com/partners/mandro,startup,Growth & Investment;Healthcare & Wellness;Robotics
-MAPPEDIN,https://vivatechnology.com/partners/mappedin,startup,Consulting & B2B services;Mobility & Smart Cities;Retail & E-commerce
-MATAWAN,https://vivatechnology.com/partners/matawan,startup,"Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-MAY,https://vivatechnology.com/partners/may,startup,Artificial Intelligence;GovTech & Public sector;Healthcare & Wellness
-MBAY MOBILITY,https://vivatechnology.com/partners/mbay-mobility,startup,"Climate Tech;Fintech, Banking & Crypto;Mobility & Smart Cities"
-MEDIVIE TECH,https://vivatechnology.com/partners/medivie-tech,startup,Artificial Intelligence;Healthcare & Wellness
-MEDLEA SRL,https://vivatechnology.com/partners/medlea-srl,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-MELLOWVANS,https://vivatechnology.com/partners/mellowvans,startup,Industry & Supply Chain;Mobility & Smart Cities;Retail & E-commerce
-MENTALECO,https://vivatechnology.com/partners/mentaleco,startup,Artificial Intelligence;EdTech;Mobility & Smart Cities
-MERAKŸ,https://vivatechnology.com/partners/meraky,startup,Artificial Intelligence;Diversity & Inclusion;Healthcare & Wellness
-META MOBILITY INC.,https://vivatechnology.com/partners/meta-mobility-inc,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-MÉTROPOLE DU GRAND PARIS,https://vivatechnology.com/partners/metropole-du-grand-paris,,Climate Tech;Cybersecurity;Energy;GovTech & Public sector;Mobility & Smart Cities
-MIA-CARE,https://vivatechnology.com/partners/mia-care,startup,Artificial Intelligence;Healthcare & Wellness;Insurance & Legal
-MICRO FACTORY GMBH,https://vivatechnology.com/partners/micro-factory-gmbh,startup,Healthcare & Wellness;Industry & Supply Chain
-MINISTÈRES AMÉNAGEMENT DU TERRITOIRE ET TRANSITION ECOLOGIQUE,https://vivatechnology.com/partners/ministeres-amenagement-du-territoire-et-transition-ecologique,,Artificial Intelligence;Climate Tech;Mobility & Smart Cities
-MIRSCIENCE THERAPEUTICS,https://vivatechnology.com/partners/mirscience-therapeutics,startup,Growth & Investment;Healthcare & Wellness
-MISSIA,https://vivatechnology.com/partners/missia,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-MIST STUDIO,https://vivatechnology.com/partners/mist-studio,startup,EdTech;Healthcare & Wellness;XR & Metaverse
-MISTO,https://vivatechnology.com/partners/misto,startup,GovTech & Public sector;Growth & Investment;Mobility & Smart Cities
-MOBILEDOCK,https://vivatechnology.com/partners/mobiledock,startup,Growth & Investment;Industry & Supply Chain;Mobility & Smart Cities
-MOBILITAF,https://vivatechnology.com/partners/mobilitaf,startup,Artificial Intelligence;Mobility & Smart Cities
-MOBISLOW,https://vivatechnology.com/partners/mobislow,startup,Energy;Mobility & Smart Cities
-MOCON,https://vivatechnology.com/partners/mocon,startup,"Industry & Supply Chain;Mobility & Smart Cities;Space, Aeronautics & Defense"
-MODERLAB,https://vivatechnology.com/partners/moderlab,startup,Mobility & Smart Cities;Retail & E-commerce;XR & Metaverse
-MOODIFY,https://vivatechnology.com/partners/moodify-2,startup,Healthcare & Wellness;Marketing & Advertising;Retail & E-commerce
-MORPHINGI INC.,https://vivatechnology.com/partners/morphingi-inc,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Robotics
-MOVALIFE MICROROBOTICS,https://vivatechnology.com/partners/movalife-microrobotics,startup,Artificial Intelligence;Healthcare & Wellness;Robotics
-MOVER,https://vivatechnology.com/partners/mover,startup,EdTech;Healthcare & Wellness;XR & Metaverse
-MSINSIGHT,https://vivatechnology.com/partners/msinsight,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-MUBE,https://vivatechnology.com/partners/mube,startup,"Climate Tech;Connectivity, Cloud & Infrastructure;Mobility & Smart Cities"
-MUNERA INTELLIGENCE INC.,https://vivatechnology.com/partners/munera-intelligence-inc,startup,Artificial Intelligence;Data Management & CRM;Mobility & Smart Cities
-MUZARD,https://vivatechnology.com/partners/muzard,startup,"Healthcare & Wellness;Luxury, Fashion & Cosmetics;Retail & E-commerce"
-MX3D,https://vivatechnology.com/partners/mx3d,startup,Energy;Industry & Supply Chain;Robotics
-MYANT,https://vivatechnology.com/partners/myant,startup,Deep Tech & Quantum Computing;Growth & Investment;Healthcare & Wellness
-MYAUTODATA (MAUD),https://vivatechnology.com/partners/myautodata-maud,startup,Data Management & CRM;Marketing & Advertising;Mobility & Smart Cities
-MYCEL INC.,https://vivatechnology.com/partners/mycel-inc,startup,"Luxury, Fashion & Cosmetics;Marketing & Advertising;Mobility & Smart Cities"
-MYNERVA,https://vivatechnology.com/partners/mynerva,startup,Artificial Intelligence;Healthcare & Wellness;Robotics
-MYSOFIE,https://vivatechnology.com/partners/mysofie,startup,"Fintech, Banking & Crypto;Healthcare & Wellness;Insurance & Legal"
-MYTHAMIN,https://vivatechnology.com/partners/mythamin,startup,Healthcare & Wellness;Industry & Supply Chain;Retail & E-commerce
-NANOMADE,https://vivatechnology.com/partners/nanomade,startup,"Healthcare & Wellness;Mobility & Smart Cities;Space, Aeronautics & Defense"
-NANOZ,https://vivatechnology.com/partners/nanoz,startup,"Healthcare & Wellness;Industry & Supply Chain;Space, Aeronautics & Defense"
-NCREE.NIAR,https://vivatechnology.com/partners/ncreeniar,startup,Energy;GovTech & Public sector;Mobility & Smart Cities
-NEBULONE,https://vivatechnology.com/partners/nebulone,startup,Mobility & Smart Cities
-NEURAL BALANCE INNOVATION,https://vivatechnology.com/partners/neural-balance-innovation,startup,"Healthcare & Wellness;Space, Aeronautics & Defense"
-NEURAVUE LTD.,https://vivatechnology.com/partners/neuravue-ltd,startup,Artificial Intelligence;Consulting & B2B services;Healthcare & Wellness
-NEXT MODULAR VEHICLES,https://vivatechnology.com/partners/next-modular-vehicles,startup,Artificial Intelligence;Mobility & Smart Cities;Robotics
-NEXT SOUND LAB,https://vivatechnology.com/partners/next-sound-lab,startup,"Entertainment, Media & Creators Economy;Healthcare & Wellness"
-NEYOS,https://vivatechnology.com/partners/neyos,startup,Consulting & B2B services;Industry & Supply Chain;Mobility & Smart Cities
-NICELY,https://vivatechnology.com/partners/nicely,startup,Artificial Intelligence;HR & Future of Work;Healthcare & Wellness
-NIVERBEC,https://vivatechnology.com/partners/niverbec,startup,Artificial Intelligence;Healthcare & Wellness
-NODIA METABOLICS,https://vivatechnology.com/partners/nodia-metabolics,startup,Healthcare & Wellness
-NORTHERN FRANCE,https://vivatechnology.com/partners/northern-france,,Artificial Intelligence;Climate Tech;GovTech & Public sector;Healthcare & Wellness;Industry & Supply Chain
-NOULA,https://vivatechnology.com/partners/noula,startup,Artificial Intelligence;Marketing & Advertising;Mobility & Smart Cities
-NOVIGA,https://vivatechnology.com/partners/noviga,startup,Artificial Intelligence;Healthcare & Wellness
-NOXON,https://vivatechnology.com/partners/noxon,startup,Growth & Investment;Healthcare & Wellness
-NUSENSE,https://vivatechnology.com/partners/nusense,startup,Industry & Supply Chain;Mobility & Smart Cities;Robotics
-OCELLOTT ENGENHARIA LTDA,https://vivatechnology.com/partners/ocellott-engenharia-ltda,startup,"Mobility & Smart Cities;Space, Aeronautics & Defense"
-OCTOPIZE,https://vivatechnology.com/partners/octopize,startup,Artificial Intelligence;Healthcare & Wellness;Mobility & Smart Cities
-OCTOPIZE,https://vivatechnology.com/partners/octopize-3,startup,Artificial Intelligence;Healthcare & Wellness;Mobility & Smart Cities
-OCTOPIZE,https://vivatechnology.com/partners/octopize-2,startup,Artificial Intelligence;Healthcare & Wellness;Mobility & Smart Cities
-OKOSIX LIMITED,https://vivatechnology.com/partners/okosix-limited,startup,"Climate Tech;Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-OLFY,https://vivatechnology.com/partners/olfy,startup,Healthcare & Wellness;Marketing & Advertising;XR & Metaverse
-OLFY,https://vivatechnology.com/partners/olfy,startup,Healthcare & Wellness;Marketing & Advertising;Retail & E-commerce
-OLLOS,https://vivatechnology.com/partners/ollos,startup,Growth & Investment;Healthcare & Wellness;Retail & E-commerce
-ONCOELECTRONICS,https://vivatechnology.com/partners/oncoelectronics,startup,Deep Tech & Quantum Computing;Healthcare & Wellness
-ONESCOPE,https://vivatechnology.com/partners/onescope,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-ONKOS MOLECULAR DIAGNOSTICS,https://vivatechnology.com/partners/onkos-molecular-diagnostics,startup,Growth & Investment;Healthcare & Wellness;Marketing & Advertising
-OPTIMEYES,https://vivatechnology.com/partners/optimeyes,startup,Gaming & Esports;Healthcare & Wellness;Sports
-OPTIYOL,https://vivatechnology.com/partners/optiyol,startup,Artificial Intelligence;Industry & Supply Chain;Mobility & Smart Cities
-ORASIS- EAR,https://vivatechnology.com/partners/orasis-ear,startup,Artificial Intelligence;Healthcare & Wellness;Sports
-OREYEON,https://vivatechnology.com/partners/oreyeon,startup,"Artificial Intelligence;Robotics;Space, Aeronautics & Defense"
-OTOWAHR INC.,https://vivatechnology.com/partners/otowahr-inc,startup,Deep Tech & Quantum Computing;Healthcare & Wellness
-OUTSIGHT,https://vivatechnology.com/partners/outsight,startup,Artificial Intelligence;Mobility & Smart Cities
-OVI,https://vivatechnology.com/partners/ovi,startup,Climate Tech;Healthcare & Wellness;Mobility & Smart Cities
-PALITHERA GMBH,https://vivatechnology.com/partners/palithera-gmbh,startup,Diversity & Inclusion;GovTech & Public sector;Healthcare & Wellness
-PAPERMINDS TECHNOLOGIES,https://vivatechnology.com/partners/paperminds-technologies,startup,"Healthcare & Wellness;Luxury, Fashion & Cosmetics;Marketing & Advertising"
-PAPILIO.BIO,https://vivatechnology.com/partners/papiliobio,startup,Diversity & Inclusion;Healthcare & Wellness
-PARALELL,https://vivatechnology.com/partners/paralell,startup,"Artificial Intelligence;Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-PARISANTÉ CAMPUS,https://vivatechnology.com/partners/parisante-campus,,Artificial Intelligence;Cloud & Infrastructure;Cybersecurity;Healthcare & Wellness
-PARKIE SRL,https://vivatechnology.com/partners/parkie-srl,startup,Consulting & B2B services;GovTech & Public sector;Mobility & Smart Cities
-PAXITY,https://vivatechnology.com/partners/paxity,startup,Data Management & CRM;GovTech & Public sector;Mobility & Smart Cities
-PEEKCELL,https://vivatechnology.com/partners/peekcell,startup,Artificial Intelligence;Healthcare & Wellness
-"PEOPLE AND TECHNOLOGY CO., LTD.",https://vivatechnology.com/partners/people-and-technology-co-ltd,,"Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-PERFECT CORP,https://vivatechnology.com/partners/perfect-corp,,"Consulting & B2B services;Healthcare & Wellness;Luxury, Fashion & Cosmetics;Retail & E-commerce"
-PEROVSKIA SOLAR AG,https://vivatechnology.com/partners/perovskia-solar-ag,startup,Energy;Industry & Supply Chain;Mobility & Smart Cities
-PGU MEDTEC,https://vivatechnology.com/partners/pgu-medtec,startup,"Artificial Intelligence;Healthcare & Wellness;Space, Aeronautics & Defense"
-PHIGI,https://vivatechnology.com/partners/phigi,startup,"Deep Tech & Quantum Computing;Robotics;Space, Aeronautics & Defense"
-PHITECH SAS,https://vivatechnology.com/partners/phitech-sas,startup,Diversity & Inclusion;Mobility & Smart Cities;Retail & E-commerce
-PHOENIX-AI,https://vivatechnology.com/partners/phoenix-ai,startup,Artificial Intelligence;Mobility & Smart Cities;Robotics
-PIXACARE,https://vivatechnology.com/partners/pixacare,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-PLOUF SAFETY CONCEPT,https://vivatechnology.com/partners/plouf-safety-concept,startup,Artificial Intelligence;Healthcare & Wellness;Retail & E-commerce
-POINT FIT TECHNOLOGY LIMITED,https://vivatechnology.com/partners/point-fit-technology-limited,startup,Artificial Intelligence;Healthcare & Wellness;Sports
-POLOGNE - POLISH INVESTMENT AND TRADE AGENCY - PAIH,https://vivatechnology.com/partners/pologne-polish-investment-and-trade-agency-paih,,"Artificial Intelligence;Fintech, Banking & Crypto;Retail & E-commerce;Robotics"
-PONY,https://vivatechnology.com/partners/pony,startup,Climate Tech;Industry & Supply Chain;Mobility & Smart Cities
-PRECISIA CARE SA,https://vivatechnology.com/partners/precisia-care-sa,startup,Artificial Intelligence;Consulting & B2B services;Healthcare & Wellness
-PREVIA MEDICAL,https://vivatechnology.com/partners/previa-medical,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-PRIMINOV,https://vivatechnology.com/partners/priminov,startup,Artificial Intelligence;Consulting & B2B services;Mobility & Smart Cities
-PRUM LEAP TECHNOLOGIES PTE. LTD.,https://vivatechnology.com/partners/prum-leap-technologies-pte-ltd,,Mobility & Smart Cities
-PSYNARIOS,https://vivatechnology.com/partners/psynarios,startup,Artificial Intelligence;HR & Future of Work;Healthcare & Wellness
-PURPLE ALTERNATIVE SURFACE,https://vivatechnology.com/partners/purple-alternative-surface,startup,Climate Tech;Industry & Supply Chain;Mobility & Smart Cities
-PURPLE ALTERNATIVE SURFACE,https://vivatechnology.com/partners/purple-alternative-surface-2,startup,Climate Tech;Industry & Supply Chain;Mobility & Smart Cities
-PURPLE ALTERNATIVE SURFACE,https://vivatechnology.com/partners/purple-alternative-surface-3,startup,Climate Tech;Mobility & Smart Cities
-QCELLA AG,https://vivatechnology.com/partners/qcella-ag,startup,"Energy;Mobility & Smart Cities;Space, Aeronautics & Defense"
-QRESERVE,https://vivatechnology.com/partners/qreserve,startup,Artificial Intelligence;GovTech & Public sector;Healthcare & Wellness
-RAILWAI,https://vivatechnology.com/partners/railwai,startup,Artificial Intelligence;Marketing & Advertising;Mobility & Smart Cities
-RANDOMCOFFEE,https://vivatechnology.com/partners/randomcoffee,startup,Diversity & Inclusion;HR & Future of Work;Healthcare & Wellness
-RATP GROUP,https://vivatechnology.com/partners/ratp-group,,Artificial Intelligence;Energy;HR & Future of Work;Mobility & Smart Cities;Robotics
-RDS SAS,https://vivatechnology.com/partners/rds-sas,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-REA DIAGNOSTICS SA,https://vivatechnology.com/partners/rea-diagnostics-sa,startup,Healthcare & Wellness
-RÉGION CENTRE-VAL DE LOIRE,https://vivatechnology.com/partners/region-centre-val-de-loire,,"Artificial Intelligence;Climate Tech;Cybersecurity;Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-RÉGION ÎLE-DE-FRANCE,https://vivatechnology.com/partners/region-ile-de-france,,Artificial Intelligence;Climate Tech;Deep Tech & Quantum Computing;GovTech & Public sector;Healthcare & Wellness
-RÉGION NOUVELLE-AQUITAINE,https://vivatechnology.com/partners/region-nouvelle-aquitaine,,Healthcare & Wellness;Industry & Supply Chain;Mobility & Smart Cities;Robotics
-RENARDO,https://vivatechnology.com/partners/renardo,startup,Deep Tech & Quantum Computing;Industry & Supply Chain;Robotics
-RENEWABLES & COLOCATED BATTERIES,https://vivatechnology.com/partners/renewables-colocated-batteries,startup,Artificial Intelligence;Energy;Robotics
-REPLICO,https://vivatechnology.com/partners/replico,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-RESMONICS AG,https://vivatechnology.com/partners/resmonics-ag,startup,Artificial Intelligence;Healthcare & Wellness
-REVEAL A.I,https://vivatechnology.com/partners/reveal-ai,startup,"Artificial Intelligence;Healthcare & Wellness;Space, Aeronautics & Defense"
-REVLIM,https://vivatechnology.com/partners/revlim,startup,Healthcare & Wellness;Sports
-RI.CIRCOLA S.R.L.,https://vivatechnology.com/partners/ricircola-srl,startup,Artificial Intelligence;Healthcare & Wellness;Insurance & Legal
-RIDERGY,https://vivatechnology.com/partners/ridergy,startup,Artificial Intelligence;Energy;Mobility & Smart Cities
-RIGSTERS,https://vivatechnology.com/partners/rigsters,startup,"Entertainment, Media & Creators Economy;Robotics"
-ROB'OCC,https://vivatechnology.com/partners/robocc,startup,Industry & Supply Chain;Robotics
-ROBOCORE TECHNOLOGY LIMITED,https://vivatechnology.com/partners/robocore-technology-limited,startup,Artificial Intelligence;Robotics
-ROFIM,https://vivatechnology.com/partners/rofim,startup,Artificial Intelligence;Cybersecurity;Healthcare & Wellness
-RUNTECH,https://vivatechnology.com/partners/runtech,startup,GovTech & Public sector;Mobility & Smart Cities
-SAFEBEAR,https://vivatechnology.com/partners/safebear-2,startup,Gaming & Esports;HR & Future of Work;Healthcare & Wellness
-SAFESIP,https://vivatechnology.com/partners/safesip,startup,Climate Tech;Healthcare & Wellness
-SANOFI,https://vivatechnology.com/partners/sanofi,,Artificial Intelligence;Diversity & Inclusion;Healthcare & Wellness;Industry & Supply Chain
-SAU-VRIDER,https://vivatechnology.com/partners/sau-vrider,startup,Gaming & Esports;Healthcare & Wellness;XR & Metaverse
-SAUDI ARABIA - PREMIUM RESIDENCY,https://vivatechnology.com/partners/saudi-arabia-premium-residency,,"Artificial Intelligence;Fintech, Banking & Crypto;Growth & Investment;Healthcare & Wellness"
-SCIALYTICS,https://vivatechnology.com/partners/scialytics,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-SCIENTA LAB,https://vivatechnology.com/partners/scienta-lab,startup,Artificial Intelligence;Healthcare & Wellness
-SCONAI,https://vivatechnology.com/partners/sconai,startup,Consulting & B2B services;GovTech & Public sector;Mobility & Smart Cities
-SEATYZEN,https://vivatechnology.com/partners/seatyzen,startup,Climate Tech;Food & Agriculture;Healthcare & Wellness
-SEMEIA,https://vivatechnology.com/partners/semeia,startup,Artificial Intelligence;Cybersecurity;Healthcare & Wellness
-SENSEBIOTEK HEALTH CARE,https://vivatechnology.com/partners/sensebiotek-health-care,startup,"Food & Agriculture;Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-SHARING WORKER,https://vivatechnology.com/partners/sharing-worker,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-SHELTERCOM,https://vivatechnology.com/partners/sheltercom,startup,Artificial Intelligence;Healthcare & Wellness;Retail & E-commerce
-SKINMED,https://vivatechnology.com/partners/skinmed,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-SKINUVITA,https://vivatechnology.com/partners/skinuvita,startup,Healthcare & Wellness
-SKRIBI,https://vivatechnology.com/partners/skribi,startup,"Artificial Intelligence;Entertainment, Media & Creators Economy;Healthcare & Wellness"
-SMARTALPHA,https://vivatechnology.com/partners/smartalpha,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-SMARTIUM GROUP,https://vivatechnology.com/partners/smartium-group,startup,"Healthcare & Wellness;Industry & Supply Chain;Space, Aeronautics & Defense"
-SOFTWARE RÉPUBLIQUE,https://vivatechnology.com/partners/software-republique,,Mobility & Smart Cities
-SOLECOOLER,https://vivatechnology.com/partners/solecooler,startup,Artificial Intelligence;Healthcare & Wellness;Sports
-SOLENCE,https://vivatechnology.com/partners/solence,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-SOMANITY,https://vivatechnology.com/partners/somanity,startup,Diversity & Inclusion;Healthcare & Wellness;Robotics
-SOPHRONITIS,https://vivatechnology.com/partners/sophronitis,startup,GovTech & Public sector;HR & Future of Work;Healthcare & Wellness
-SORA,https://vivatechnology.com/partners/sora,startup,"Healthcare & Wellness;Luxury, Fashion & Cosmetics"
-SPARTHA MEDICAL,https://vivatechnology.com/partners/spartha-medical,startup,Artificial Intelligence;Healthcare & Wellness;Industry & Supply Chain
-SPEXAL,https://vivatechnology.com/partners/spexal,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-"SQRRL, A SPINOFF OF MINERVASYS",https://vivatechnology.com/partners/sqrrl-a-spinoff-of-minervasys,startup,"Cybersecurity;Mobility & Smart Cities;Space, Aeronautics & Defense"
-STARTUP-GERMANY AND FRENCH-GERMAN TECH LAB,https://vivatechnology.com/partners/startup-germany-and-french-german-tech-lab,startup,Artificial Intelligence;Cybersecurity;Deep Tech & Quantum Computing;Industry & Supply Chain;Robotics
-STARTUP.FLANDERS - FLANDERS INVESTMENT & TRADE (FIT),https://vivatechnology.com/partners/startupflanders-flanders-investment-trade-fit,startup,Climate Tech;Deep Tech & Quantum Computing;Mobility & Smart Cities
-STERNBOARD,https://vivatechnology.com/partners/sternboard,startup,Mobility & Smart Cities
-STRAPPLIFE,https://vivatechnology.com/partners/strapplife,startup,GovTech & Public sector;Healthcare & Wellness;Mobility & Smart Cities
-STREETCO STREETNAV,https://vivatechnology.com/partners/streetco-streetnav,startup,Diversity & Inclusion;Healthcare & Wellness;Mobility & Smart Cities
-STRIM MOBILITY,https://vivatechnology.com/partners/strim-mobility,startup,Energy;Marketing & Advertising;Mobility & Smart Cities
-SUPERMICRO,https://vivatechnology.com/partners/supermicro,,"Artificial Intelligence;Cloud & Infrastructure;Connectivity, Cloud & Infrastructure;Energy;Mobility & Smart Cities"
-SWISSTECH,https://vivatechnology.com/partners/swisstech,,Artificial Intelligence;Cybersecurity;Healthcare & Wellness;Mobility & Smart Cities;Robotics
-SYLVESTER.AI,https://vivatechnology.com/partners/sylvesterai,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-SYNAPTYS NEUROSCIENCE,https://vivatechnology.com/partners/synaptys-neuroscience,startup,Growth & Investment;Healthcare & Wellness
-TAIWAN - TAIWAN TECH ARENA (TTA),https://vivatechnology.com/partners/taiwan-taiwan-tech-arena-tta,,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness;Robotics
-TELEKINESIS,https://vivatechnology.com/partners/telekinesis,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-TELGANI,https://vivatechnology.com/partners/telgani,startup,Consulting & B2B services;Growth & Investment;Mobility & Smart Cities
-TERRATIS,https://vivatechnology.com/partners/terratis,startup,Food & Agriculture;Industry & Supply Chain;Robotics
-TESLA,https://vivatechnology.com/partners/tesla,,Artificial Intelligence;Energy;Mobility & Smart Cities;Robotics
-THAILAND - NATIONAL INNOVATION AGENCY (NIA),https://vivatechnology.com/partners/thailand-national-innovation-agency-nia,,Climate Tech;Deep Tech & Quantum Computing;Food & Agriculture;Healthcare & Wellness
-THE FEEL GOOD BEAUTY (AMOI),https://vivatechnology.com/partners/the-feel-good-beauty-amoi,startup,"Healthcare & Wellness;Luxury, Fashion & Cosmetics;Retail & E-commerce"
-THE INNOVATION AGENCY RHINELAND-PALATINATE GMBH,https://vivatechnology.com/partners/the-innovation-agency-rhineland-palatinate-gmbh,,Artificial Intelligence;Climate Tech;Robotics
-THE RING - UDC,https://vivatechnology.com/partners/the-ring-udc,startup,Deep Tech & Quantum Computing;Robotics;XR & Metaverse
-THERASONIC,https://vivatechnology.com/partners/therasonic,startup,Deep Tech & Quantum Computing;Healthcare & Wellness;Robotics
-TIAMI NETWORKS,https://vivatechnology.com/partners/tiami-networks,startup,"Connectivity, Cloud & Infrastructure;Deep Tech & Quantum Computing;Mobility & Smart Cities"
-TILT ENERGY,https://vivatechnology.com/partners/tilt-energy,startup,Artificial Intelligence;Energy;Mobility & Smart Cities
-TISSUELABS,https://vivatechnology.com/partners/tissuelabs,startup,Healthcare & Wellness;Robotics
-"TMEV NET CO., LTD.",https://vivatechnology.com/partners/tmev-net-co-ltd,startup,Climate Tech;Deep Tech & Quantum Computing;Mobility & Smart Cities
-TURQUIE - INVEST TURKEY,https://vivatechnology.com/partners/turquie-invest-turkey,,"Artificial Intelligence;Fintech, Banking & Crypto;Gaming & Esports;Healthcare & Wellness"
-TUT TUT,https://vivatechnology.com/partners/tut-tut,startup,Growth & Investment;Mobility & Smart Cities;Retail & E-commerce
-UAE - G42,https://vivatechnology.com/partners/uae-g42,,Artificial Intelligence;Consulting & B2B services;Deep Tech & Quantum Computing;Healthcare & Wellness
-UKRAINE - AMBASSADE D'UKRAINE,https://vivatechnology.com/partners/ukraine-ambassade-dukraine,,Artificial Intelligence;Food & Agriculture;GovTech & Public sector;Healthcare & Wellness
-UNITREE ROBOTICS,https://vivatechnology.com/partners/unitree-robotics,startup,Artificial Intelligence;Energy;Robotics
-UNIVERSITÉ PARIS SACLAY,https://vivatechnology.com/partners/universite-paris-saclay,,Artificial Intelligence;Deep Tech & Quantum Computing;Energy;Healthcare & Wellness
-URBANLOOP,https://vivatechnology.com/partners/urbanloop,startup,Energy;Industry & Supply Chain;Mobility & Smart Cities
-URBASENSE,https://vivatechnology.com/partners/urbasense,startup,Climate Tech;Energy;Mobility & Smart Cities
-V-BIOTECH,https://vivatechnology.com/partners/v-biotech,startup,"Healthcare & Wellness;Industry & Supply Chain;Luxury, Fashion & Cosmetics"
-VERIFYWISE,https://vivatechnology.com/partners/verifywise,startup,Artificial Intelligence;Healthcare & Wellness;Insurance & Legal
-VERNE AM,https://vivatechnology.com/partners/verne-am,startup,"Deep Tech & Quantum Computing;Healthcare & Wellness;Space, Aeronautics & Defense"
-VERSO CONCEPT,https://vivatechnology.com/partners/verso-concept,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-VIANOVA,https://vivatechnology.com/partners/vianova,startup,Artificial Intelligence;GovTech & Public sector;Mobility & Smart Cities
-VIBRA NOVA,https://vivatechnology.com/partners/vibra-nova,startup,Deep Tech & Quantum Computing;Industry & Supply Chain;Mobility & Smart Cities
-VIDETICS,https://vivatechnology.com/partners/videtics,startup,Artificial Intelligence;Mobility & Smart Cities;Retail & E-commerce
-VION,https://vivatechnology.com/partners/vion,startup,Food & Agriculture;Growth & Investment;Healthcare & Wellness
-VIPALI,https://vivatechnology.com/partners/vipali,startup,Artificial Intelligence;HR & Future of Work;Healthcare & Wellness
-VIRTUOSIS AI,https://vivatechnology.com/partners/virtuosis-ai,startup,Artificial Intelligence;Cybersecurity;Healthcare & Wellness
-VIRTUOSIS AI,https://vivatechnology.com/partners/virtuosis-ai-2,startup,Artificial Intelligence;Cybersecurity;Healthcare & Wellness
-VIRTUOSIS AI,https://vivatechnology.com/partners/virtuosis-ai-3,startup,Artificial Intelligence;Cybersecurity;Healthcare & Wellness
-VISEUR AI,https://vivatechnology.com/partners/viseur-ai,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-VISIBLE PATIENT LAB,https://vivatechnology.com/partners/visible-patient-lab,startup,Artificial Intelligence;Consulting & B2B services;Healthcare & Wellness
-VISIONSPACE INC.,https://vivatechnology.com/partners/visionspace-inc,startup,Artificial Intelligence;Mobility & Smart Cities;Robotics
-VISMED TRAINING LIMITED,https://vivatechnology.com/partners/vismed-training-limited,startup,Artificial Intelligence;Healthcare & Wellness
-VITA325,https://vivatechnology.com/partners/vita325,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-VITALSIGNS CORP,https://vivatechnology.com/partners/vitalsigns-corp,startup,Healthcare & Wellness;Marketing & Advertising
-VITIVISIO,https://vivatechnology.com/partners/vitivisio,startup,Artificial Intelligence;Food & Agriculture;Robotics
-VOCAST,https://vivatechnology.com/partners/vocast,startup,"Entertainment, Media & Creators Economy;Mobility & Smart Cities;Retail & E-commerce"
-VRAI AI,https://vivatechnology.com/partners/vrai-ai,startup,Artificial Intelligence;GovTech & Public sector;Healthcare & Wellness
-VRAI HEART,https://vivatechnology.com/partners/vrai-heart,startup,Artificial Intelligence;Healthcare & Wellness
-VULKAM,https://vivatechnology.com/partners/vulkam,startup,"Industry & Supply Chain;Robotics;Space, Aeronautics & Defense"
-WASORIA,https://vivatechnology.com/partners/wasoria,startup,Artificial Intelligence;Industry & Supply Chain;Robotics
-WASP S.R.L.,https://vivatechnology.com/partners/wasp-srl,startup,Food & Agriculture;Industry & Supply Chain;Mobility & Smart Cities
-WATER MONSTER,https://vivatechnology.com/partners/water-monster,startup,Industry & Supply Chain;Mobility & Smart Cities;Retail & E-commerce
-WEARIN',https://vivatechnology.com/partners/wearin,startup,Artificial Intelligence;Industry & Supply Chain;Mobility & Smart Cities
-WEDRIVE,https://vivatechnology.com/partners/wedrive,startup,Climate Tech;Consulting & B2B services;Mobility & Smart Cities
-WEMAP,https://vivatechnology.com/partners/wemap,startup,Mobility & Smart Cities;Retail & E-commerce;Sports
-WESTWELL,https://vivatechnology.com/partners/westwell,startup,Artificial Intelligence;Industry & Supply Chain;Mobility & Smart Cities
-WHITELAB,https://vivatechnology.com/partners/whitelab,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-WHITELAB GENOMICS,https://vivatechnology.com/partners/whitelab-genomics,startup,Artificial Intelligence;Deep Tech & Quantum Computing;Healthcare & Wellness
-WIDEX,https://vivatechnology.com/partners/widex,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-WILCO - UNLEASHING AMBITION,https://vivatechnology.com/partners/wilco-unleashing-ambition,,"Energy;Fintech, Banking & Crypto;Healthcare & Wellness;Industry & Supply Chain"
-WILLDOM,https://vivatechnology.com/partners/willdom,startup,Consulting & B2B services;Gaming & Esports;Healthcare & Wellness
-WINTICS,https://vivatechnology.com/partners/wintics,startup,Artificial Intelligence;GovTech & Public sector;Mobility & Smart Cities
-WISP SOLUTIONS,https://vivatechnology.com/partners/wisp-solutions,startup,Artificial Intelligence;GovTech & Public sector;Mobility & Smart Cities
-WORDLIFT,https://vivatechnology.com/partners/wordlift,startup,"Healthcare & Wellness;Luxury, Fashion & Cosmetics;Retail & E-commerce"
-XEOS IMAGING INC.,https://vivatechnology.com/partners/xeos-imaging-inc,startup,Artificial Intelligence;Energy;Mobility & Smart Cities
-YOBE,https://vivatechnology.com/partners/yobe,startup,"Artificial Intelligence;Fintech, Banking & Crypto;Healthcare & Wellness"
-YODAN,https://vivatechnology.com/partners/yodan,startup,Artificial Intelligence;Growth & Investment;Healthcare & Wellness
-ZALY MERVEILLE,https://vivatechnology.com/partners/zaly-merveille,startup,Diversity & Inclusion;Mobility & Smart Cities
-ZEBRAFANT.AI,https://vivatechnology.com/partners/zebrafantai,startup,Artificial Intelligence;Climate Tech;Mobility & Smart Cities
-ZILIA,https://vivatechnology.com/partners/zilia,startup,"Artificial Intelligence;Connectivity, Cloud & Infrastructure;Healthcare & Wellness"
-ZURI HEALTH,https://vivatechnology.com/partners/zuri-health,startup,Artificial Intelligence;Healthcare & Wellness
-ZYON HELMETS,https://vivatechnology.com/partners/zyon-helmets,startup,Industry & Supply Chain;Mobility & Smart Cities;Retail & E-commerce
+name,url,startup,booth,homepage,categories_detail,overview
+2TONNES,https://vivatechnology.com/partners/2tonnes,startup,passerelle Booth O08-005,https://www.2tonnes.org,"EdTech, Climate Tech","What if the ecological transition was the key to tackling 21st century challenges?   To face today's crises without exceeding planetary limits, let's rethink how we act! 2tonnes creates immersive workshops to understand, act, and build collective power."
+AKIVI,https://vivatechnology.com/partners/akivi,startup,hall1 Booth J47-001,https://www.akivi.fr,"EdTech, Healthcare & Wellness, Data Management & CRM","The company AKIVI is dedicated to supporting the training of our future healthcare professionals in human anatomy.
+AKIVI offers educational programs that combine various teaching methods within personalized and certified learning paths."
+ALEFREDO EXAMS,https://vivatechnology.com/partners/alefredo-exams,startup,hall2 Booth P19-002,https://alefredoexams.com/,EdTech,"AI-powered test-bank that transforms exams and worksheets into interactive, gamified content. We offer quizzes, past exams, and rewards to engage students from grades 6–12 (American, British IB educational Systems) and medical students."
+ANONYMOUS DOTS TECHNOLOGY COLIMITED,https://vivatechnology.com/partners/anonymous-dots-technology-colimited,startup,hall1 Booth F48-004,https://www.cathoven.com/,"Artificial Intelligence, EdTech, Growth & Investment","Cathoven — Your AI Buddy for English Writing & Speaking
+From daily practice to IELTS prep, Cathoven offers instant scoring, targeted feedback, and progress tracking. Trusted by 40,000+ educators and 50+ top higher ed, including Columbia, Cambridge and ASU"
+AUGMEDI AG,https://vivatechnology.com/partners/augmedi-ag,startup,hall1 Booth B38-006,https://augmedi.com/,"EdTech, Healthcare & Wellness, Growth & Investment","Augmedi is transforming medical education: With photorealistic 3D models and an AI-powered learning platform, Augmedi replaces traditional anatomy and surgical training with an intelligent, adaptive learning experience—anytime, anywhere, and for all level"
+AWORLD,https://vivatechnology.com/partners/aworld,startup,hall1 Booth C15-004,https://aworld.org,"Fintech, Banking & Crypto, EdTech, HR & Future of Work","AWorld's AI Engagement Engine: Create better experiences for employees, customers & communities. Drive impactful learning, loyalty & action that truly connects. Simplify engagement, amplify positive change globally."
+BEEKEE,https://vivatechnology.com/partners/beekee,startup,hall1 Booth B38-028,https://beekee.ch/,"EdTech, HR & Future of Work, Industry & Supply Chain","Digital classrooms everywhere, without internet or power.
+
+The can-sized Beekee Box enables instructors to deploy a digital classroom for up to 40 learners anywhere, connecting to an offline wifi with their smartphones or devices."
+BLATRON,https://vivatechnology.com/partners/blatron,startup,,https://blatron.com/,"EdTech, GovTech & Public sector, Healthcare & Wellness",Brazilian startup developing and commercializing low-cost impedance analysis technology.
+BLIFY,https://vivatechnology.com/partners/blify,startup,hall1 Booth J50-002,https://www.blify.co/,"Artificial Intelligence, EdTech, HR & Future of Work","Blify turns your Slack, MS Teams, WhatsApp, Google Chat, and SMS into your next-gen manager training platform — no new app needed"
+CCI PARIS ILE-DE-FRANCE,https://vivatechnology.com/partners/cci-paris-ile-de-france,,hall1 Booth G50,https://www.cci-paris-idf.fr,"Artificial Intelligence, Consulting & B2B services, GovTech & Public sector, EdTech, Connectivity, Cloud & Infrastructure, Cybersecurity, Industry & Supply Chain, Data Management & CRM, Energy, Space, Aeronautics & Defense, Growth & Investment, Deep Tech & Quantum Computing, Healthcare & Wellness, Retail & E-commerce, Diversity & Inclusion, Food & Agriculture, Climate Tech, HR & Future of Work, Mobility & Smart Cities, Luxury, Fashion & Cosmetics, Marketing & Advertising, Cloud & Infrastructure, Fintech, Banking & Crypto","Boosting projects, driving growth
+At Paris Ile-de-France CCI we are resolutely focused on driving economic growth. Our incubators give startups the support they need to flourish and grow their business. We provide advice and assistance for SMBs at every stage of their development. Our schools offer outstanding training for the jobs of tomorrow. We are fully committed to investing in people and projects to shape the future of the capital region.
+....................
+
+Avec la CCI Paris Ile-de-France, boostez vos innovations ! accélération, réseaux, financement, digitalisation, international... : on a les experts qu'il vous faut et la bonne solution pour chacune et chacun d'entre vous.
+
+Au plus près de chez vous, nous vous mettons en relation avec les bons réseaux pour créer, financer et développer votre activité."
+CERTIFOPAC,https://vivatechnology.com/partners/certifopac,startup,hall2 Booth S04-005,https://certifopac.fr/,"Artificial Intelligence, EdTech, HR & Future of Work","Certifopac is a certification body specializing in professional training, offering Qualiopi and Certif'IAG certifications recognized by the French Government. Certif'IAG is our Gen AI label."
+CLEO,https://vivatechnology.com/partners/cleo,startup,hall1 Booth D17-005,https://www.cleo.academy/,"Artificial Intelligence, EdTech, HR & Future of Work","At Cleo Academy, we make AI adoption effortless, powering your team's digital transformation with engaging, customized experiences."
+COACHELLO,https://vivatechnology.com/partners/coachello,startup,hall1 Booth D33-013,https://www.coachello.ai,"EdTech, Artificial Intelligence, HR & Future of Work","""Nous permettons aux entreprises de déployer des programmes de coaching humain et IA, conçus pour répondre à leurs priorités stratégiques tout en s’adaptant aux besoins uniques de chaque collaborateur — le tout intégré à MS Teams."""
+CONSTEL MENTORING,https://vivatechnology.com/partners/constel-mentoring,startup,hall1 Booth G50-004,https://constel-mentoring.com,"Artificial Intelligence, EdTech, HR & Future of Work",Our purposee is to help organisations to become a learning one and more human area. We created a mentoring platform for companys and higher ed institutions.
+DÉLÉGATION GÉNÉRALE À L’ENTREPRENARIAT RAPIDE DES FEMMES ET DES JEUNES,https://vivatechnology.com/partners/delegation-generale-a-lentreprenariat-rapide-des-femmes-et-des-jeunes,,hall1 Booth L30,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjb7f6mxuGMAxWIRqQEHfHcOpsQFnoECDoQAQ&url=https%3A%2F%2Fwww.der.sn%2F&usg=AOvVaw2Tjrdle66YdJUAHwG9wZjv&opi=89978449,"Fintech, Banking & Crypto, Food & Agriculture, Healthcare & Wellness, EdTech, Artificial Intelligence, Retail & E-commerce, Climate Tech, Mobility & Smart Cities, Growth & Investment, Luxury, Fashion & Cosmetics, Industry & Supply Chain, Deep Tech & Quantum Computing, Connectivity, Cloud & Infrastructure, Energy","DER/FJ (General Delegation for Rapid Entrepreneurship of Women and Youth) is a Senegalese government initiative launched in 2018 to promote and support entrepreneurship among women and youth. Its work focuses on:
+Financing
+Training and mentoring
+Innovation and startup support
+Ecosystem development
+Inclusion : DER/FJ operates under the Presidency and collaborates with national and international partners. Ensuring equal opportunities, especially for marginalized groups including women, youth, and people with disabilities."
+DIGIOTOUCH OU,https://vivatechnology.com/partners/digiotouch-ou,startup,hall1 Booth C06-001,https://digiotouch.ai,"Artificial Intelligence, EdTech, HR & Future of Work","Digiotouch AI elevates remote collaboration workflows by eliminating meeting fatigue, language barriers, and preserving small details from conversations."
+E-REO,https://vivatechnology.com/partners/e-reo,startup,hall2 Booth T18-006,https://www.e-reo-platform.com/,"Diversity & Inclusion, EdTech, GovTech & Public sector","E-Reo digitize indigenous languages to build memory and spread endangered languages.
+We deploy mobile apps that showcase the content chosen by our customers. Available on Google and Apple store in less than 48 hours. Content update available instantly."
+EDTAKE,https://vivatechnology.com/partners/edtake,startup,hall1 Booth C49-005,https://www.edtake.com,"EdTech, Artificial Intelligence, HR & Future of Work","edtake is the essential AI Copilot for creating any type of training material in just minutes. It helps learning creators to design, produce, and adapt learning materials from existing sources, using AI."
+EXPLORE MEDIA,https://vivatechnology.com/partners/explore-media,,,https://www.exploremedia.io/,"Entertainment, Media & Creators Economy, EdTech, Robotics, Marketing & Advertising","Explore Media is the leading online media group specializing in edutainment. Every day, it produces and distributes content that is educational in substance and entertaining in form to its 10 million followers across platforms such as Facebook, TikTok, Instagram, YouTube, Snapchat, LinkedIn, and Spotify. With a team of 40 professionals, Explore Media is on a mission to make knowledge accessible to everyone and is set to achieve 1 billion views in 2024."
+FACIL'ITI,https://vivatechnology.com/partners/faciliti,startup,passerelle Booth O08-001,https://www.facil-iti.fr,"Diversity & Inclusion, EdTech, Retail & E-commerce","FACILiti makes everyday life easier through user-friendly one-click innovative digital tools for those with cognitive, visual, and motor challenges. We offer a wide range of products to answer your web accessibility challenges from audits to enhanced UX."
+FORMEAZY,https://vivatechnology.com/partners/formeazy,startup,hall1 Booth D49-007,https://formeazy.fr,EdTech,"Formeazy simplifies access to personalized coaching and on-demand training. Book your coaching or training sessions, learn at your own pace, and make real progress with experts. For freelancers, entrepreneurs, and professionals."
+GOWIZAPP,https://vivatechnology.com/partners/gowizapp,startup,hall1 Booth C49-006,https://www.gowizapp.com/,"EdTech, HR & Future of Work","Plateforme mobile innovante pour les programmes d'alternance. Connecte les CFA/OF, les apprentis et les entreprises. Simplifie le suivi, améliore la communication, suit les compétences en temps réel et favorise la réussite et la fidélisation."
+HIVENET,https://vivatechnology.com/partners/hivenet,startup,hall1 Booth B30-017,https://www.hivenet.com/,"Artificial Intelligence, EdTech, Connectivity, Cloud & Infrastructure","Supercharge your AI projects with instant access to sovereign, secure & green GPUs."
+INERSIO,https://vivatechnology.com/partners/inersio,startup,hall1 Booth D33-009,https://www.inersio.com/,"Marketing & Advertising, EdTech","INERSIO crafts bold, high-impact immersive experiences powered by AR, VR, and AI — turning know-how into standout stories, captivating audiences, and accelerating business growth. Ready to make your brand unforgettable?"
+JOBTASTE,https://vivatechnology.com/partners/jobtaste,startup,hall1 Booth B21-006,https://jobtaste.fr/pro,"HR & Future of Work, EdTech, Artificial Intelligence","JobTaste is an immersive recruitment solution for high-turnover roles. Candidates experience the job through REALISTIC VIDEO GAMES with conversational AI. It allows recruiters to assess motivation, behavior, cultural fit, and reduce early-stage turnover."
+JUISCI,https://vivatechnology.com/partners/juisci,startup,hall1 Booth J24-006,https://www.juisci.com/,"Artificial Intelligence, EdTech, Healthcare & Wellness","Juisci - Your Juice of Science - uses AI to transform medical research into smart content for healthcare professionals. Our platform powers education and engagement for leaders like Sanofi and L'Oréal, making science more personalized and impactful."
+KOKORO LINGUA,https://vivatechnology.com/partners/kokoro-lingua,startup,hall1 Booth G50-014,https://kokorolingua.com,"EdTech, Diversity & Inclusion, Artificial Intelligence","KOKORO lingua revolutionizes language learning with our ""by children, for children"" method. Launching at VivaTech our AI-powered app with image recognition. Trusted by 600K+ kids and 12K+ schools in 20+ countries, expanding globally with proven results."
+L4BOX,https://vivatechnology.com/partners/l4box,startup,hall1 Booth D28-002,http://www.toktokbox.co.kr,"EdTech, Growth & Investment, Industry & Supply Chain","L4BOX develops TokTokBox, a large interactive device that fosters emotional social learning and builds digital educational environments. Combining real-world play with AI-powered content, it supports schools, homes, and resorts, and is expanding globally."
+LA CARTE DES TALENTS,https://vivatechnology.com/partners/la-carte-des-talents,startup,hall1 Booth E59-008,,"EdTech, HR & Future of Work",La Carte des Talents est un outil simple et rapide pour vous aider à faire un pas de plus dans votre carrière.
+LA REBELLE CONNECT,https://vivatechnology.com/partners/la-rebelle-connect,startup,hall1 Booth N45-010,https://www.larebelleconnect.com,"EdTech, Entertainment, Media & Creators Economy, HR & Future of Work","La Rebelle Connect développe les carrières des artistes interprètes dans les milieux du cinéma, de l’audiovisuel & du spectacle vivant. Nous produisons des parcours de formation sur mesure pour nos talents et nous les accompagnons vers l’emploi."
+LA TOUCHE MUSICALE,https://vivatechnology.com/partners/la-touche-musicale,startup,hall1 Booth J33-014,https://latouchemusicale.com/,"Artificial Intelligence, EdTech, Entertainment, Media & Creators Economy","La Touche Musicale builds AI-powered apps to help musicians transcribe and learn music effortlessly. From audio to sheet music or interactive practice tools, our mission is to simplify musical creation and education through smart technology with our AI's."
+LEARNING ROBOTS,https://vivatechnology.com/partners/learning-robots,startup,hall1 Booth J33-005,https://www.learningrobots.ai,"Artificial Intelligence, EdTech, Robotics","Learning Robots provides educational solutions to teach Artificial Intelligence in a friendly, concrete and progressive way. The AlphAI software allows to discover neural networks, machine learning and algorithms by taming a small robot."
+LEON,https://vivatechnology.com/partners/leon,startup,hall1 Booth H49-003,,"Entertainment, Media & Creators Economy, EdTech, Healthcare & Wellness","Leon creates immersive, artistic podcasts that bring places and stories to life. From tourism to education and elder care, we use sound to reconnect people with culture, heritage, and each other — making the invisible, audible."
+MANSA TALENTS,https://vivatechnology.com/partners/mansa-talents,startup,hall1 Booth M29-004,https://mansatalents.com,"Artificial Intelligence, HR & Future of Work, EdTech","Mansa Talents is a comprehensive HRIS platform revolutionizing access to employment and HR management in Africa. Through AI, sourcing, smart CV creation, automated testing, training, and follow-up, we connect and support both talents and companies."
+MENTALECO,https://vivatechnology.com/partners/mentaleco,startup,hall1 Booth D17-030,https://www.mentaleco.fr,"Artificial Intelligence, EdTech, Mobility & Smart Cities","Keep your teams in top shape all year round with cognitive science! Using methods and analytical protocols rooted in scientific research, we deliver precise diagnostics of your organizational practices to generate both individual and collective benefits."
+MINACLASS,https://vivatechnology.com/partners/minaclass,startup,hall1 Booth N45-025,https://www.minaclass.com/,"Artificial Intelligence, EdTech","MinaClass is a mobile app connecting students for in-person or online lessons, with no commissions or subscriptions. Tutors earn money they can reuse to take private lessons themselves or withdraw in a fair, circular system."
+MIST STUDIO,https://vivatechnology.com/partners/mist-studio,startup,hall1 Booth J25-014,,"Healthcare & Wellness, XR & Metaverse, EdTech","Auroria is an immersive therapeutic game for children (5+) that reduces pain and anxiety with real-time adaptive distraction. Co-designed with clinicians, it blends medical-grade VR and interactive content to support care seamlessly."
+MONELECTROBOX,https://vivatechnology.com/partners/monelectrobox,startup,hall1 Booth A08-031,https://www.monelectrobox.fr,"EdTech, Marketing & Advertising, Growth & Investment","MONELECTROBOX aims to revolutionize the learning of science and programming by making them fun, accessible, and engaging through self-assembly DIY kits."
+MOVER,https://vivatechnology.com/partners/mover,startup,hall1 Booth J33-006,https://mover-vr.com,"Healthcare & Wellness, EdTech, XR & Metaverse","MoveR transforms daily challenges into playful victories for neurodivergent individuals — through a mobile, headset-free app that blends immersive technology, movement, and neuroscience."
+MYOTHESIS,https://vivatechnology.com/partners/myothesis,startup,hall1 Booth A08-030,https://myothesis.com,"Artificial Intelligence, EdTech, Industry & Supply Chain","We digitize manual professionals know-how to preserve it and ensure its transmission over time, making it accessible for training, heritage conservation, and skill development."
+NOLEJ,https://vivatechnology.com/partners/nolej,startup,hall1 Booth G38-007,https://www.nolej.io/,"Artificial Intelligence, EdTech","Nolej is a French Edtech company that enables trainers and teachers to generate interactive and accessible activities (quizzes, drag-and-drop exercises, chatbots, crosswords , etc.) from all types of content (text, video, audio, etc.)."
+OHÉ - ORTHOGRAPHE HÉROS,https://vivatechnology.com/partners/ohe-orthographe-heros,startup,hall1 Booth D53-013,https://www.orthographe-heros.fr/,"EdTech, Diversity & Inclusion, Artificial Intelligence","OHé is a social impact start-up and the new EdTech challenger for French spelling. Combining AI-powered features, microlearning and gamification, it offers a logic-based alternative to rote learning, delivering fast, lasting  and proven results."
+OPENCYBER AI,https://vivatechnology.com/partners/opencyber-ai,startup,hall1 Booth G12-050,https://opencyberai.com,"GovTech & Public sector, Deep Tech & Quantum Computing, EdTech","Training platform in cybersecurity, offering private tutoring, group mentoring, serious games, virtual simulations."
+ORELIS SARL,https://vivatechnology.com/partners/orelis-sarl,startup,hall1 Booth L29-001,https://poegnanclub.odoo.com/,"XR & Metaverse, Growth & Investment, EdTech","Poegnan Studio, by Orelis SARL, is an Ivorian project promoting African culture through art and technology. Using virtual and augmented reality, it educates in a playful way about African heritage, including traditional dances, masks, and tourist sites."
+OVA INC.,https://vivatechnology.com/partners/ova-inc,startup,hall1 Booth H46-018,https://www.stellarx.ai,"Artificial Intelligence, EdTech, Space, Aeronautics & Defense","OVA empowers industries to solve complex training challenges with StellarX — our AI-powered no-code XR platform that transforms expert knowledge into immersive simulations, cutting training time and boosting retention"
+PALM.AI,https://vivatechnology.com/partners/palmai,startup,hall1 Booth G28-006,https://www.palm-app.ai/,"Artificial Intelligence, HR & Future of Work, EdTech","Palm is reinventing Talent Management through AI Agents — helping companies build, grow, and retain talent at scale, smarter and faster. Palm maps skills in real time, predict workforce risks, automate career paths & upskilling, boost performance."
+"PLAYCURIO CO., LTD.",https://vivatechnology.com/partners/playcurio-co-ltd,startup,,,"EdTech, Entertainment, Media & Creators Economy","PlayCurio creates immersive hybrid learning experiences for kids, combining physical and digital. Our content inspires curiosity and creativity while bridging digital and analog play. We collaborate globally to deliver meaningful, playful edutainment."
+POKAMIND,https://vivatechnology.com/partners/pokamind,startup,hall1 Booth C47-008,https://www.pokamind.com,"EdTech, Diversity & Inclusion, HR & Future of Work",Pokamind is reshaping workplace learning through AI-driven personalized coaching and role-play tailored to company values & culture. We transform professional development from isolated events into an engaging daily practice delivering lasting results.
+POLLEN,https://vivatechnology.com/partners/pollen,startup,hall1 Booth D49-009,https://pollen.fr/,"Artificial Intelligence, Consulting & B2B services, EdTech",Pollen is the upskilling platform that promotes lifelong learning by giving direct access to the best experts in tech and business. Because the best way to learn is to learn from those who have done it before you!
+QUITUS,https://vivatechnology.com/partners/quitus,startup,hall1 Booth L30-010,https://quitus.tech,"Artificial Intelligence, Connectivity, Cloud & Infrastructure, EdTech","Intelligent SaaS platform for biometric school attendance with a parental notification system and real-time SMS alerts, with a patent in 17 countries."
+SAYNA,https://vivatechnology.com/partners/sayna,startup,hall1 Booth G12-012,https://sayna.io,"HR & Future of Work, EdTech, Fintech, Banking & Crypto","SAYNA is a skills-based gig economy marketplace helping our users learn, save and monetize digital skills by completing learn and work digital activities for enterprise."
+SCANLITT,https://vivatechnology.com/partners/scanlitt,startup,hall1 Booth G12-055,https://www.scanlitt.com/,"Artificial Intelligence, EdTech, GovTech & Public sector",Scanlitt: Unlock scientific knowledge with our next-generation hybrid AI. We scan and synthesize scientific literature to produce exhaustive and reliable literature reviews.
+STARPAL.AI,https://vivatechnology.com/partners/starpalai,startup,hall1 Booth J38-014,https://starpal.ai,"Artificial Intelligence, EdTech, Retail & E-commerce","We create interactive AI agents: 3D avatars that can advise, sell, or play fictional characters to humanise AI interactions. In kiosks, websites or apps, they enhance the customer experience, especially in transport, retail, education & entertainment."
+STEWDY,https://vivatechnology.com/partners/stewdy,startup,hall1 Booth F25-007,https://www.stewdy.com,"Artificial Intelligence, EdTech","Stewdy fuses cutting-edge AI with proven pedagogy to personalize learning for middle and high school students, accelerating mastery in math, physics, chemistry, biology, languages, and more. 
+Elevating student achievement is our mission."
+SYMPLIF.AI,https://vivatechnology.com/partners/symplifai,startup,hall1 Booth E59-014,https://symplif.ai,"Artificial Intelligence, HR & Future of Work, EdTech","Founded by Salesforce alumni. 
+Decrease the risks and cost of failed B2B sales recruitment and onboarding. We use AI to role play real-world selling situations, evaluate and improve your salespeople skills, in a secure, always-on environment."
+TALEME,https://vivatechnology.com/partners/taleme,startup,hall1 Booth H46-021,https://talemeapp.com,"Artificial Intelligence, EdTech, Entertainment, Media & Creators Economy","TaleMe is a storytelling app where kids and adults co-create personalized stories from age 6. It fosters critical thinking, opens dialogue on key topics, and uses ethical AI to inspire, engage, and connect — at home, in school, or beyond."
+TANJIBLOCKS,https://vivatechnology.com/partners/tanjiblocks,startup,hall1 Booth B31-009,https://tanjiblocks.com,"Gaming & Esports, Fintech, Banking & Crypto, EdTech","TanjiBlocks is a game studio turning emerging technologies into playful, accessible web experiences. Through immersive gameplay, we help audiences and fintech actors engage with the cultural, strategic, and ethical dimensions of blockchain and crypto."
+TEN FRAMEWORK,https://vivatechnology.com/partners/ten-framework,startup,hall2 Booth V08-006,https://theten.ai,"Artificial Intelligence, EdTech, Entertainment, Media & Creators Economy","TEN is an open-source framework for multimodal conversational Voice Agent.
+It empowers you to build truly human-like interactive experiences by giving your AI agents the ability to see, hear, and speak in real time."
+TURING SPACE,https://vivatechnology.com/partners/turing-space,startup,hall1 Booth D38-024,https://turingcerts.com,"Fintech, Banking & Crypto, EdTech, GovTech & Public sector","Turing Space, founded in 2020 by CEO Yao-Chieh Hu, is a market pioneer in digital identity. Anchored in TrustTech and powered by Decentralized Identity (DID) and Verifiable Credentials, we tackle the global challenges of certification and verification."
+WILBI,https://vivatechnology.com/partners/wilbi,startup,hall1 Booth J38-013,https://wilbi-app.com/,"EdTech, Artificial Intelligence","Wilbi est une plateforme de découverte des métiers qui aide les jeunes dans leur orientation.
+
+Elle permet aux grands acteurs du marché du travail de valoriser leurs métiers peu ou mal connus auprès des nouvelles générations afin de créer des vocations."
+YELLO,https://vivatechnology.com/partners/yello,startup,hall1 Booth G12-062,https://www.yelloapp.co/,"Artificial Intelligence, EdTech","Yello est une app mobile d’apprentissage pour collégiens et lycéens. Grâce à l'IA, au microlearning et à la gamification, elle propose un apprentissage personnalisé, accessible hors ligne, avec des contenus variés alignés aux programmes officiels."
+ZAKA,https://vivatechnology.com/partners/zaka,startup,hall1 Booth B08-020,https://zaka.ai/,"Artificial Intelligence, EdTech, HR & Future of Work","ZAKA is on a journey to democratize Artificial Intelligence (AI) in the MENA region and globally through sharing knowledge, building solutions, and connecting people!"
+ZENCODER,https://vivatechnology.com/partners/zencoder,,hall1 Booth C04,https://zencoder.ai,"Artificial Intelligence, Fintech, Banking & Crypto, EdTech, Retail & E-commerce","Zencoder was built to help software engineers ship better products faster. Our coding and testing agents help developers spend less time on routine and more time creating amazing things.
+
+Zencoder supports 70+ programming languages and integrates seamlessly with VS Code, JetBrains and Android Studio, offering robust support for technologies and frameworks. Our AI research team constantly benchmarks Zencoder’s AI agents to push them toward state-of-the-art performance. As of March 2025, we’re at 60%+ on SWE-Bench-Verified and ~30%+ on SWE-Bench-Multimodal(#1), delivering best-in-class coding assistance right inside your IDE.
+
+Beyond coding, we offer 20+ DevOps integrations (making us the most integrated coding agent)—including JIRA, Sentry, GitHub, and GitLab—to help you ship faster. To help you ship better, we've built a unit testing agent for maintainable, high-quality code."
