@@ -1,0 +1,89 @@
+2025-05-19 11:15:28,087 [INFO] Starting collection from https://vivatechnology.com/partners
+2025-05-19 11:15:34,629 [INFO] Page loaded: https://vivatechnology.com/partners
+2025-05-19 11:18:39,013 [INFO] Reached bottom of page after stepwise scrolling.
+2025-05-19 11:18:39,238 [INFO] Found 1591 total company blocks
+2025-05-19 11:18:39,386 [INFO] [1] Matched: .LUMEN -> https://vivatechnology.com/partners/lumen
+2025-05-19 11:18:39,733 [INFO] [9] Matched: 4DIVISION -> https://vivatechnology.com/partners/4division
+2025-05-19 11:18:41,202 [INFO] [41] Matched: AI4IV SRL -> https://vivatechnology.com/partners/ai4iv-srl
+2025-05-19 11:18:41,473 [INFO] [48] Matched: AIRECO CO., LTD -> https://vivatechnology.com/partners/aireco-co-ltd
+2025-05-19 11:18:41,809 [INFO] [57] Matched: ALATYR -> https://vivatechnology.com/partners/alatyr
+2025-05-19 11:18:42,209 [INFO] [68] Matched: ALLIANTECH -> https://vivatechnology.com/partners/alliantech
+2025-05-19 11:18:42,525 [INFO] [76] Matched: ALTYOR -> https://vivatechnology.com/partners/altyor
+2025-05-19 11:18:43,134 [INFO] [92] Matched: APREX -> https://vivatechnology.com/partners/aprex
+2025-05-19 11:18:44,267 [INFO] [121] Matched: AUTOKEYBO LIMITED -> https://vivatechnology.com/partners/autokeybo-limited
+2025-05-19 11:18:44,517 [INFO] [127] Matched: AWAREK -> https://vivatechnology.com/partners/awarek
+2025-05-19 11:18:44,823 [INFO] [134] Matched: BADDY PLUME -> https://vivatechnology.com/partners/baddy-plume
+2025-05-19 11:18:45,818 [INFO] [160] Matched: BIOM RESEARCH PROJECT -> https://vivatechnology.com/partners/biom-research-project
+2025-05-19 11:18:46,377 [INFO] [175] Matched: BLUE SMART ROBOTICS -> https://vivatechnology.com/partners/blue-smart-robotics
+2025-05-19 11:18:46,774 [INFO] [185] Matched: BOTRONICS -> https://vivatechnology.com/partners/botronics
+2025-05-19 11:18:48,006 [INFO] [216] Matched: CAPOOM -> https://vivatechnology.com/partners/capoom
+2025-05-19 11:18:48,859 [INFO] [239] Matched: CHEN KAI TECH -> https://vivatechnology.com/partners/chen-kai-tech
+2025-05-19 11:18:50,744 [INFO] [288] Matched: COR.SYNC -> https://vivatechnology.com/partners/corsync
+2025-05-19 11:18:50,845 [INFO] [290] Matched: CORBERAN PARTS -> https://vivatechnology.com/partners/corberan-parts
+2025-05-19 11:18:51,435 [INFO] [304] Matched: CSC ROBOTIC ENGINEERING LIMITED -> https://vivatechnology.com/partners/csc-robotic-engineering-limited
+2025-05-19 11:18:53,043 [INFO] [347] Matched: DENKWEIT GMBH -> https://vivatechnology.com/partners/denkweit-gmbh
+2025-05-19 11:18:53,370 [INFO] [355] Matched: DEUTSCHES FORSCHUNGSZENTRUM FÜR KÜNSTLICHE INTELLIGENZ DFKI -> https://vivatechnology.com/partners/deutsches-forschungszentrum-fur-kunstliche-intelligenz-dfki
+2025-05-19 11:18:53,534 [INFO] [359] Matched: DEVPOINT -> https://vivatechnology.com/partners/devpoint
+2025-05-19 11:18:54,491 [INFO] [384] Matched: DOTFLOW -> https://vivatechnology.com/partners/dotflow
+2025-05-19 11:18:56,613 [INFO] [443] Matched: EMOVO CARE -> https://vivatechnology.com/partners/emovo-care
+2025-05-19 11:18:57,092 [INFO] [455] Matched: ENTERPRISE ARMENIA -> https://vivatechnology.com/partners/enterprise-armenia
+2025-05-19 11:18:57,587 [INFO] [468] Matched: ERDE -> https://vivatechnology.com/partners/erde
+2025-05-19 11:18:57,931 [INFO] [475] Matched: EUROPEAN COMMISSION - DG CONNECT -> https://vivatechnology.com/partners/european-commission-dg-connect
+2025-05-19 11:18:58,043 [INFO] [477] Matched: EX9 -> https://vivatechnology.com/partners/ex9
+2025-05-19 11:18:58,212 [INFO] [481] Matched: EXOSOME ANALYTICS -> https://vivatechnology.com/partners/exosome-analytics
+2025-05-19 11:18:58,329 [INFO] [483] Matched: EXPLORE MEDIA -> https://vivatechnology.com/partners/explore-media
+2025-05-19 11:18:58,425 [INFO] [485] Matched: EXWAYZ -> https://vivatechnology.com/partners/exwayz
+2025-05-19 11:18:58,615 [INFO] [489] Matched: FAACTOPI -> https://vivatechnology.com/partners/faactopi
+2025-05-19 11:18:59,719 [INFO] [519] Matched: FLYRENOV -> https://vivatechnology.com/partners/flyrenov
+2025-05-19 11:19:00,253 [INFO] [533] Matched: FRAUNHOFER-GESELLSCHAFT -> https://vivatechnology.com/partners/fraunhofer-gesellschaft
+2025-05-19 11:19:01,031 [INFO] [553] Matched: GENERAL ROBOTICS -> https://vivatechnology.com/partners/general-robotics
+2025-05-19 11:19:01,815 [INFO] [573] Matched: GOODBARBER -> https://vivatechnology.com/partners/goodbarber
+2025-05-19 11:19:02,055 [INFO] [579] Matched: GREEN COMMUNICATIONS -> https://vivatechnology.com/partners/green-communications
+2025-05-19 11:19:05,099 [INFO] [662] Matched: INBOLT -> https://vivatechnology.com/partners/inbolt
+2025-05-19 11:19:06,573 [INFO] [700] Matched: IRIDESENSE -> https://vivatechnology.com/partners/iridesense
+2025-05-19 11:19:06,918 [INFO] [708] Matched: JAPAN VILLAGE WITH 4 LOCAL GOVERNMENTS -> https://vivatechnology.com/partners/japan-village-with-4-local-governments
+2025-05-19 11:19:06,976 [INFO] [709] Matched: JAPET MEDICAL -> https://vivatechnology.com/partners/japet-medical
+2025-05-19 11:19:07,696 [INFO] [728] Matched: KALYSTA ACTUATION -> https://vivatechnology.com/partners/kalysta-actuation
+2025-05-19 11:19:09,967 [INFO] [788] Matched: LEARNING ROBOTS -> https://vivatechnology.com/partners/learning-robots
+2025-05-19 11:19:10,182 [INFO] [793] Matched: LEMO -> https://vivatechnology.com/partners/lemo
+2025-05-19 11:19:10,969 [INFO] [814] Matched: LIUM -> https://vivatechnology.com/partners/lium
+2025-05-19 11:19:11,414 [INFO] [826] Matched: LOTTECHNOLOGY -> https://vivatechnology.com/partners/lottechnology
+2025-05-19 11:19:11,741 [INFO] [835] Matched: LYNXDRONE -> https://vivatechnology.com/partners/lynxdrone
+2025-05-19 11:19:12,335 [INFO] [850] Matched: MAND.RO -> https://vivatechnology.com/partners/mandro
+2025-05-19 11:19:15,378 [INFO] [932] Matched: MORPHINGI INC. -> https://vivatechnology.com/partners/morphingi-inc
+2025-05-19 11:19:15,478 [INFO] [934] Matched: MOVALIFE MICROROBOTICS -> https://vivatechnology.com/partners/movalife-microrobotics
+2025-05-19 11:19:15,910 [INFO] [945] Matched: MX3D -> https://vivatechnology.com/partners/mx3d
+2025-05-19 11:19:16,242 [INFO] [953] Matched: MYNERVA -> https://vivatechnology.com/partners/mynerva
+2025-05-19 11:19:17,303 [INFO] [982] Matched: NEXT MODULAR VEHICLES -> https://vivatechnology.com/partners/next-modular-vehicles
+2025-05-19 11:19:18,249 [INFO] [1008] Matched: NUSENSE -> https://vivatechnology.com/partners/nusense
+2025-05-19 11:19:20,330 [INFO] [1064] Matched: OREYEON -> https://vivatechnology.com/partners/oreyeon
+2025-05-19 11:19:21,998 [INFO] [1109] Matched: PHIGI -> https://vivatechnology.com/partners/phigi
+2025-05-19 11:19:22,122 [INFO] [1112] Matched: PHOENIX-AI -> https://vivatechnology.com/partners/phoenix-ai
+2025-05-19 11:19:22,971 [INFO] [1135] Matched: POLOGNE - POLISH INVESTMENT AND TRADE AGENCY - PAIH -> https://vivatechnology.com/partners/pologne-polish-investment-and-trade-agency-paih
+2025-05-19 11:19:25,209 [INFO] [1195] Matched: RATP GROUP -> https://vivatechnology.com/partners/ratp-group
+2025-05-19 11:19:25,846 [INFO] [1210] Matched: RÉGION NOUVELLE-AQUITAINE -> https://vivatechnology.com/partners/region-nouvelle-aquitaine
+2025-05-19 11:19:26,088 [INFO] [1216] Matched: RENARDO -> https://vivatechnology.com/partners/renardo
+2025-05-19 11:19:26,147 [INFO] [1217] Matched: RENEWABLES & COLOCATED BATTERIES -> https://vivatechnology.com/partners/renewables-colocated-batteries
+2025-05-19 11:19:26,681 [INFO] [1231] Matched: RIGSTERS -> https://vivatechnology.com/partners/rigsters
+2025-05-19 11:19:26,892 [INFO] [1236] Matched: ROB'OCC -> https://vivatechnology.com/partners/robocc
+2025-05-19 11:19:26,940 [INFO] [1237] Matched: ROBOCORE TECHNOLOGY LIMITED -> https://vivatechnology.com/partners/robocore-technology-limited
+2025-05-19 11:19:30,140 [INFO] [1323] Matched: SOMANITY -> https://vivatechnology.com/partners/somanity
+2025-05-19 11:19:30,551 [INFO] [1334] Matched: SPEXAL -> https://vivatechnology.com/partners/spexal
+2025-05-19 11:19:30,911 [INFO] [1343] Matched: STARTUP-GERMANY AND FRENCH-GERMAN TECH LAB -> https://vivatechnology.com/partners/startup-germany-and-french-german-tech-lab
+2025-05-19 11:19:31,837 [INFO] [1367] Matched: SWISSTECH -> https://vivatechnology.com/partners/swisstech
+2025-05-19 11:19:32,317 [INFO] [1379] Matched: TAIWAN - TAIWAN TECH ARENA (TTA) -> https://vivatechnology.com/partners/taiwan-taiwan-tech-arena-tta
+2025-05-19 11:19:32,900 [INFO] [1394] Matched: TELEKINESIS -> https://vivatechnology.com/partners/telekinesis
+2025-05-19 11:19:33,196 [INFO] [1402] Matched: TERRATIS -> https://vivatechnology.com/partners/terratis
+2025-05-19 11:19:33,264 [INFO] [1403] Matched: TESLA -> https://vivatechnology.com/partners/tesla
+2025-05-19 11:19:33,529 [INFO] [1409] Matched: THE INNOVATION AGENCY RHINELAND-PALATINATE GMBH -> https://vivatechnology.com/partners/the-innovation-agency-rhineland-palatinate-gmbh
+2025-05-19 11:19:33,785 [INFO] [1415] Matched: THE RING - UDC -> https://vivatechnology.com/partners/the-ring-udc
+2025-05-19 11:19:33,987 [INFO] [1419] Matched: THERASONIC -> https://vivatechnology.com/partners/therasonic
+2025-05-19 11:19:34,284 [INFO] [1427] Matched: TISSUELABS -> https://vivatechnology.com/partners/tissuelabs
+2025-05-19 11:19:35,631 [INFO] [1463] Matched: UNITREE ROBOTICS -> https://vivatechnology.com/partners/unitree-robotics
+2025-05-19 11:19:37,014 [INFO] [1498] Matched: VISIONSPACE INC. -> https://vivatechnology.com/partners/visionspace-inc
+2025-05-19 11:19:37,232 [INFO] [1504] Matched: VITIVISIO -> https://vivatechnology.com/partners/vitivisio
+2025-05-19 11:19:37,577 [INFO] [1514] Matched: VULKAM -> https://vivatechnology.com/partners/vulkam
+2025-05-19 11:19:37,852 [INFO] [1521] Matched: WASORIA -> https://vivatechnology.com/partners/wasoria
+2025-05-19 11:19:40,455 [INFO] Collected 82 robotics companies
+2025-05-19 11:19:40,678 [INFO] Writing results to robotics_companies.csv
+2025-05-19 11:19:40,702 [INFO] Extraction complete: /home/fuji/VivaTech_/robotics_companies.csv

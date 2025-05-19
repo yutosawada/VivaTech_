@@ -1,0 +1,9 @@
+2025-05-19 11:11:59,494 [INFO] Starting collection from https://vivatechnology.com/partners
+2025-05-19 11:12:08,046 [INFO] Page loaded: https://vivatechnology.com/partners
+2025-05-19 11:12:09,762 [INFO] Reached bottom of page after scrolling.
+2025-05-19 11:12:09,777 [INFO] Found 39 total company blocks
+2025-05-19 11:12:09,869 [INFO] [1] Matched: .LUMEN -> https://vivatechnology.com/partners/lumen
+2025-05-19 11:12:10,199 [INFO] [9] Matched: 4DIVISION -> https://vivatechnology.com/partners/4division
+2025-05-19 11:12:11,337 [INFO] Collected 2 robotics companies
+2025-05-19 11:12:11,434 [INFO] Writing results to robotics_companies.csv
+2025-05-19 11:12:11,434 [INFO] Extraction complete: /home/fuji/VivaTech_/robotics_companies.csv

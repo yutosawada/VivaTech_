@@ -1,0 +1,53 @@
+2025-05-19 11:11:59,494 [INFO] Starting collection from https://vivatechnology.com/partners
+2025-05-19 11:11:59,826 [DEBUG] Initializing Chrome WebDriver (headless=True)
+2025-05-19 11:12:08,046 [INFO] Page loaded: https://vivatechnology.com/partners
+2025-05-19 11:12:08,052 [DEBUG] Initial scroll height: 31995
+2025-05-19 11:12:08,897 [DEBUG] Scrolled to: 33816
+2025-05-19 11:12:09,762 [DEBUG] Scrolled to: 33816
+2025-05-19 11:12:09,762 [INFO] Reached bottom of page after scrolling.
+2025-05-19 11:12:09,777 [INFO] Found 39 total company blocks
+2025-05-19 11:12:09,869 [INFO] [1] Matched: .LUMEN -> https://vivatechnology.com/partners/lumen
+2025-05-19 11:12:09,909 [DEBUG] [2] Skipped (not robotics): ['Artificial Intelligence', 'Consulting & B2B services', 'Marketing & Advertising']
+2025-05-19 11:12:09,949 [DEBUG] [3] Skipped (not robotics): ['GovTech & Public sector', 'HR & Future of Work', 'Mobility & Smart Cities']
+2025-05-19 11:12:09,989 [DEBUG] [4] Skipped (not robotics): ['Artificial Intelligence', 'Data Management & CRM', 'Growth & Investment']
+2025-05-19 11:12:10,035 [DEBUG] [5] Skipped (not robotics): ['Fintech, Banking & Crypto', 'Insurance & Legal', 'Retail & E-commerce']
+2025-05-19 11:12:10,067 [DEBUG] [6] Skipped (not robotics): ['Climate Tech', 'EdTech']
+2025-05-19 11:12:10,097 [DEBUG] [7] Skipped (not robotics): ['Artificial Intelligence', 'HR & Future of Work']
+2025-05-19 11:12:10,138 [DEBUG] [8] Skipped (not robotics): ['Artificial Intelligence', 'Entertainment, Media & Creators Economy', 'Retail & E-commerce']
+2025-05-19 11:12:10,199 [INFO] [9] Matched: 4DIVISION -> https://vivatechnology.com/partners/4division
+2025-05-19 11:12:10,242 [DEBUG] [10] Skipped (not robotics): ['Diversity & Inclusion', 'GovTech & Public sector', 'HR & Future of Work']
+2025-05-19 11:12:10,280 [DEBUG] [11] Skipped (not robotics): ['Artificial Intelligence', 'Diversity & Inclusion', 'HR & Future of Work']
+2025-05-19 11:12:10,317 [DEBUG] [12] Skipped (not robotics): ['Artificial Intelligence', 'Diversity & Inclusion', 'HR & Future of Work']
+2025-05-19 11:12:10,356 [DEBUG] [13] Skipped (not robotics): ['Fintech, Banking & Crypto', 'Luxury, Fashion & Cosmetics', 'Retail & E-commerce']
+2025-05-19 11:12:10,393 [DEBUG] [14] Skipped (not robotics): ['Artificial Intelligence', 'Consulting & B2B services', 'Data Management & CRM']
+2025-05-19 11:12:10,433 [DEBUG] [15] Skipped (not robotics): ['Artificial Intelligence', 'Consulting & B2B services', 'Marketing & Advertising']
+2025-05-19 11:12:10,471 [DEBUG] [16] Skipped (not robotics): ['Artificial Intelligence', 'Cybersecurity', 'Marketing & Advertising']
+2025-05-19 11:12:10,510 [DEBUG] [17] Skipped (not robotics): ['Artificial Intelligence', 'Deep Tech & Quantum Computing', 'Insurance & Legal']
+2025-05-19 11:12:10,541 [DEBUG] [18] Skipped (not robotics): ['Artificial Intelligence', 'Fintech, Banking & Crypto']
+2025-05-19 11:12:10,595 [DEBUG] [19] Skipped (not robotics): ['Artificial Intelligence', 'Deep Tech & Quantum Computing', 'Entertainment, Media & Creators Economy', 'Healthcare & Wellness', 'Mobility & Smart Cities']
+2025-05-19 11:12:10,633 [DEBUG] [20] Skipped (not robotics): ['Connectivity, Cloud & Infrastructure', 'Consulting & B2B services', 'Insurance & Legal']
+2025-05-19 11:12:10,673 [DEBUG] [21] Skipped (not robotics): ['Artificial Intelligence', 'Fintech, Banking & Crypto', 'Healthcare & Wellness']
+2025-05-19 11:12:10,711 [DEBUG] [22] Skipped (not robotics): ['Fintech, Banking & Crypto', 'Marketing & Advertising', 'Retail & E-commerce']
+2025-05-19 11:12:10,752 [DEBUG] [23] Skipped (not robotics): ['Artificial Intelligence', 'Growth & Investment', 'Healthcare & Wellness']
+2025-05-19 11:12:10,786 [DEBUG] [24] Skipped (not robotics): ['Climate Tech', 'Industry & Supply Chain']
+2025-05-19 11:12:10,825 [DEBUG] [25] Skipped (not robotics): ['Artificial Intelligence', 'Diversity & Inclusion', 'HR & Future of Work']
+2025-05-19 11:12:10,864 [DEBUG] [26] Skipped (not robotics): ['Artificial Intelligence', 'EdTech', 'HR & Future of Work']
+2025-05-19 11:12:10,894 [DEBUG] [27] Skipped (not robotics): ['Diversity & Inclusion', 'Mobility & Smart Cities']
+2025-05-19 11:12:10,932 [DEBUG] [28] Skipped (not robotics): ['Diversity & Inclusion', 'Fintech, Banking & Crypto', 'Retail & E-commerce']
+2025-05-19 11:12:10,969 [DEBUG] [29] Skipped (not robotics): ['Artificial Intelligence', 'Climate Tech', 'Mobility & Smart Cities']
+2025-05-19 11:12:11,008 [DEBUG] [30] Skipped (not robotics): ['Artificial Intelligence', 'Data Management & CRM', 'Fintech, Banking & Crypto']
+2025-05-19 11:12:11,030 [DEBUG] [31] Skipped (not robotics): ['Growth & Investment']
+2025-05-19 11:12:11,077 [DEBUG] [32] Skipped (not robotics): ['Artificial Intelligence', 'EdTech', 'Fintech, Banking & Crypto', 'Retail & E-commerce']
+2025-05-19 11:12:11,114 [DEBUG] [33] Skipped (not robotics): ['Climate Tech', 'Food & Agriculture', 'Industry & Supply Chain']
+2025-05-19 11:12:11,153 [DEBUG] [34] Skipped (not robotics): ['Artificial Intelligence', 'Industry & Supply Chain', 'Space, Aeronautics & Defense']
+2025-05-19 11:12:11,192 [DEBUG] [35] Skipped (not robotics): ['Artificial Intelligence', 'Energy', 'Industry & Supply Chain']
+2025-05-19 11:12:11,230 [DEBUG] [36] Skipped (not robotics): ['Energy', 'Industry & Supply Chain', 'Marketing & Advertising']
+2025-05-19 11:12:11,267 [DEBUG] [37] Skipped (not robotics): ['Artificial Intelligence', 'Connectivity, Cloud & Infrastructure', 'Healthcare & Wellness']
+2025-05-19 11:12:11,298 [DEBUG] [38] Skipped (not robotics): ['Artificial Intelligence', 'Healthcare & Wellness']
+2025-05-19 11:12:11,337 [DEBUG] [39] Skipped (not robotics): ['Industry & Supply Chain', 'Mobility & Smart Cities', 'Retail & E-commerce']
+2025-05-19 11:12:11,337 [INFO] Collected 2 robotics companies
+2025-05-19 11:12:11,434 [DEBUG] WebDriver closed
+2025-05-19 11:12:11,434 [INFO] Writing results to robotics_companies.csv
+2025-05-19 11:12:11,434 [DEBUG] Wrote row: .LUMEN -> https://vivatechnology.com/partners/lumen
+2025-05-19 11:12:11,434 [DEBUG] Wrote row: 4DIVISION -> https://vivatechnology.com/partners/4division
+2025-05-19 11:12:11,434 [INFO] Extraction complete: /home/fuji/VivaTech_/robotics_companies.csv

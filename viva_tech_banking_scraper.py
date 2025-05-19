@@ -1,74 +1,71 @@
 #!/usr/bin/env python3
 """
-VivaTechnology multi‑sector scraper
-===================================
-抽出対象セクター:
-  - Consumer Goods / Retail / E‑commerce
-  - Health
-  - Industry
-  - Information Technologies
-  - Luxury / Fashion / Beauty
-  - Luxury / Fashion / Beauty | Marketing / Advertising / Communication
-  - Mobility / Transportation
-  - Mobility / Transportation | Smart City / Building
-
-* 各セクター一覧ページを順番にスクロールして出展企業 URL を収集
-* 企業ページから以下を抽出
-    - name, booth, homepage, categories, overview, partner_url
-* `viva_partners.csv` へ出力しつつ `Company -> Homepage` をリアルタイム表示
+VivaTechnology Selected Sector Companies Scraper with Startup Flag and Per-Run Logging
+====================================================================================
+* partners ページをステップスクロールし、以下のカテゴリを含む企業の名前とリンクを抽出
+  - Robotics
+  - Healthcare & Wellness
+  - Mobility & Smart Cities
+* 各企業ブロック内に "startup" 表示があれば startup フラグを追加
+* `sector_companies.csv` へ出力
+* 実行ごとにユニークなログファイルを logs/ 以下に出力
 """
 from __future__ import annotations
 
 import csv
-import re
 import time
-import warnings
+import logging
+import traceback
 from pathlib import Path
-from typing import Dict, List, Set
+from datetime import datetime
+from typing import Dict, List
 
-from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from tqdm import tqdm
 from webdriver_manager.chrome import ChromeDriverManager
+
+# ---------------------------------------------------------------------------
+# Setup per-run logging
+# ---------------------------------------------------------------------------
+LOG_DIR = Path("logs")
+LOG_DIR.mkdir(exist_ok=True)
+_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+DEBUG_LOG = LOG_DIR / f"debug_{_timestamp}.log"
+EXEC_LOG = LOG_DIR / f"execution_{_timestamp}.log"
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+
+# Debug FileHandler
+fh_debug = logging.FileHandler(DEBUG_LOG, encoding="utf-8")
+fh_debug.setLevel(logging.DEBUG)
+# Execution FileHandler
+fh_info = logging.FileHandler(EXEC_LOG, encoding="utf-8")
+fh_info.setLevel(logging.INFO)
+# Console Handler
+ch = logging.StreamHandler()
+ch.setLevel(logging.INFO)
+
+formatter = logging.Formatter('%(asctime)s [%(levelname)s] %(message)s')
+for handler in (fh_debug, fh_info, ch):
+    handler.setFormatter(formatter)
+    logger.addHandler(handler)
 
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
 BASE_URL = "https://vivatechnology.com"
-LIST_URLS = [
-    "https://vivatechnology.com/partners?sectors=consumer%2520goods%252Fretail%252Fe-commerce",
-    "https://vivatechnology.com/partners?sectors=health",
-    "https://vivatechnology.com/partners?sectors=industry",
-    "https://vivatechnology.com/partners?sectors=information%2520technologies",
-    "https://vivatechnology.com/partners?sectors=luxury%252Ffashion%252Fbeauty",
-    "https://vivatechnology.com/partners?sectors=luxury%252Ffashion%252Fbeauty%257Cmarketing%252Fadvertising%252Fcommunication",
-    "https://vivatechnology.com/partners?sectors=mobility%252Ftransportation",
-    "https://vivatechnology.com/partners?sectors=mobility%252Ftransportation%257Csmart%2520city%252Fbuilding",
-]
-
+PAGE_URL = f"{BASE_URL}/partners"
 HEADLESS = True
-SCROLL_STEP = 800
 SCROLL_PAUSE = 0.8
-MAX_SCROLL_LOOPS = 600
-STABLE_THRESHOLD = 4
-REQUEST_PAUSE = 0.4
-MAX_RETRIES = 3
-
-# domains to exclude
-SOCIAL_RE = re.compile(
-    r"linkedin|youtube|instagram|facebook|twitter|cookiebot|cookieyes|airtable|intercom", re.I
-)
+# 抽出対象カテゴリ
+TARGET_CATEGORIES = {"Robotics", "Healthcare & Wellness", "Mobility & Smart Cities"}
 
 # ---------------------------------------------------------------------------
-# Selenium helpers
+# Selenium helper
 # ---------------------------------------------------------------------------
-
 def _make_driver(headless: bool = True) -> webdriver.Chrome:
     opts = Options()
     if headless:
@@ -78,159 +75,108 @@ def _make_driver(headless: bool = True) -> webdriver.Chrome:
     opts.add_argument("--window-size=1920,1080")
     opts.add_argument("--lang=en")
     service = Service(ChromeDriverManager().install())
+    logger.debug("Initializing Chrome WebDriver (headless=%s)", headless)
     return webdriver.Chrome(service=service, options=opts)
 
 # ---------------------------------------------------------------------------
-# Collect partner URLs from all sector pages
+# Collect companies for target sectors
 # ---------------------------------------------------------------------------
+def collect_sector_companies() -> List[Dict[str, str]]:
+    logger.info("Starting collection from %s", PAGE_URL)
+    driver = _make_driver(HEADLESS)
+    try:
+        driver.get(PAGE_URL)
+        logger.info("Page loaded: %s", PAGE_URL)
 
-def _current_partner_links(driver: webdriver.Chrome) -> Set[str]:
-    return {
-        a.get_attribute("href").split("?")[0]
-        for a in driver.find_elements(By.CSS_SELECTOR, 'a[href^="/partners/"]')
-        if a.get_attribute("href")
-    }
-
-def collect_all_partner_urls() -> List[str]:
-    all_links: Set[str] = set()
-    for page_url in LIST_URLS:
-        print(f"Scanning sector page → {page_url}")
-        driver = _make_driver(HEADLESS)
-        driver.get(page_url)
-
-        last_count = -1
-        stable_rounds = 0
-        for _ in range(MAX_SCROLL_LOOPS):
-            driver.execute_script(f"window.scrollBy(0, {SCROLL_STEP});")
+        # ステップスクロールで全体を表示
+        total_height = driver.execute_script("return document.body.scrollHeight")
+        viewport = driver.execute_script("return window.innerHeight")
+        logger.debug("Page total height: %s, viewport height: %s", total_height, viewport)
+        scroll_y = 0
+        while scroll_y < total_height:
+            driver.execute_script(f"window.scrollTo(0, {scroll_y});")
+            logger.debug("Scrolled to Y: %s", scroll_y)
             time.sleep(SCROLL_PAUSE)
+            scroll_y += viewport
+            total_height = driver.execute_script("return document.body.scrollHeight")
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        logger.info("Reached bottom of page after stepwise scrolling.")
 
-            links = _current_partner_links(driver)
-            if len(links) == last_count:
-                stable_rounds += 1
-                if stable_rounds >= STABLE_THRESHOLD:
-                    break
-            else:
-                stable_rounds = 0
-                last_count = len(links)
+        # 企業ブロック取得
+        blocks = driver.find_elements(
+            By.CSS_SELECTOR,
+            "div.transition-all.duration-500.delay-100.h-full.opacity-100"
+        )
+        logger.info("Found %d total company blocks", len(blocks))
 
-            at_bottom = driver.execute_script(
-                "return (window.innerHeight + window.scrollY) >= document.body.scrollHeight - 2"
-            )
-            if at_bottom and stable_rounds >= 1:
-                break
+        results: List[Dict[str, str]] = []
+        for idx, block in enumerate(blocks, start=1):
+            try:
+                # カテゴリ要素を探す
+                cat_div = block.find_element(
+                    By.CSS_SELECTOR,
+                    "div.my-4.flex.flex-wrap.gap-2.items-center.justify-center"
+                )
+                categories = [span.text.strip() for span in cat_div.find_elements(
+                    By.CSS_SELECTOR,
+                    "span.flex-1.font-normal.text-clr-default-400.text-xs.px-2.truncate"
+                )]
+                # ターゲットカテゴリと一致するか
+                if not TARGET_CATEGORIES.intersection(categories):
+                    logger.debug("[%d] Skipped: %s", idx, categories)
+                    continue
 
-        print(f"  found {len(links)} links on this page")
-        all_links.update(links)
+                # 企業名とリンクを抽出
+                name_elem = block.find_element(By.CSS_SELECTOR, "h3 a")
+                name = name_elem.text.strip()
+                href = name_elem.get_attribute("href")
+                partner_url = href if href.startswith("http") else BASE_URL + href
+
+                # startup 判定
+                try:
+                    startup_div = block.find_element(
+                        By.CSS_SELECTOR,
+                        "div.w-full.flex"
+                    )
+                    startup_flag = "startup" if "startup" in startup_div.text.lower() else ""
+                except Exception:
+                    startup_flag = ""
+
+                logger.info("[%d] Matched: %s -> %s (startup=%s, categories=%s)",
+                            idx, name, partner_url, startup_flag, categories)
+                results.append({
+                    "name": name,
+                    "partner_url": partner_url,
+                    "startup": startup_flag,
+                    "categories": ";".join(categories)
+                })
+            except Exception as e:
+                logger.debug("[%d] Block error: %s", idx, e)
+
+        logger.info("Collected %d companies", len(results))
+        return results
+    finally:
         driver.quit()
-    print(f"Total unique partner profiles collected: {len(all_links)}")
-    return sorted(all_links)
-
-# ---------------------------------------------------------------------------
-# Fetch & parse partner page
-# ---------------------------------------------------------------------------
-
-def _fetch_html(url: str) -> str:
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            d = _make_driver(HEADLESS)
-            d.get(url)
-            WebDriverWait(d, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "span.ml-1.uppercase"))
-            )
-            html = d.page_source
-            d.quit()
-            return html
-        except WebDriverException as exc:
-            warnings.warn(f"{url} → {exc} – retry {attempt}/{MAX_RETRIES}")
-            time.sleep(2 * attempt)
-    raise RuntimeError(f"Failed to fetch {url}")
-
-# ---------------------------------------------------------------------------
-# Field extractors (unchanged from previous version)
-# ---------------------------------------------------------------------------
-
-def _first_homepage(soup: BeautifulSoup) -> str:
-    for a in soup.select("a[href]"):
-        if a.find("span", class_="label symbols") and "language" in a.get_text(" ", strip=True).lower():
-            href = a["href"].strip()
-            if href.startswith("http") and not SOCIAL_RE.search(href):
-                return href
-    for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
-        if (
-            href.startswith("http")
-            and "vivatechnology.com" not in href
-            and not SOCIAL_RE.search(href)
-            and "privacy" not in href.lower()
-            and "cookie" not in href.lower()
-        ):
-            return href
-    return ""
-
-
-def _extract_booth(soup: BeautifulSoup) -> str:
-    for sel in [
-        "div.text-xs span.ml-1.uppercase",
-        "span.symbols + span.ml-1.uppercase",
-        "span.ml-1.uppercase",
-    ]:
-        tag = soup.select_one(sel)
-        if tag and tag.get_text(strip=True):
-            return tag.get_text(strip=True).strip('"“”')
-    return ""
-
-
-def _extract_categories(soup: BeautifulSoup) -> str:
-    cats = [span.get_text(strip=True) for span in soup.select(
-        "span.flex-1.font-normal.text-clr-default-400.text-xs.px-2.truncate")]
-    seen = set()
-    return ", ".join([c for c in cats if not (c in seen or seen.add(c))])
-
-
-def _extract_overview(soup: BeautifulSoup) -> str:
-    parts = [div.get_text(" ", strip=True) for div in soup.select("div.my-4.text-xs.leading-relaxed")]
-    return "\n".join(parts)
-
-# ---------------------------------------------------------------------------
-# Parse one partner
-# ---------------------------------------------------------------------------
-
-def parse_partner(url: str) -> Dict[str, str]:
-    soup = BeautifulSoup(_fetch_html(url), "html.parser")
-    name = soup.find("h1").get_text(strip=True) if soup.find("h1") else url.rsplit("/", 1)[-1]
-    return {
-        "name": name,
-        "booth": _extract_booth(soup),
-        "homepage": _first_homepage(soup),
-        "categories": _extract_categories(soup),
-        "overview": _extract_overview(soup),
-        "partner_url": url,
-    }
+        logger.debug("WebDriver closed")
 
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
-
 def main() -> None:
-    partner_urls = collect_all_partner_urls()
-    rows: List[Dict[str, str]] = []
-    for url in tqdm(partner_urls, desc="Scraping", unit="profile"):
-        try:
-            row = parse_partner(url)
-            rows.append(row)
-            print(f"{row['name']} -> {row['homepage']}")
-            time.sleep(REQUEST_PAUSE)
-        except Exception as exc:
-            warnings.warn(f"{url} failed → {exc}")
-
-    out = Path("viva_partners.csv")
-    with out.open("w", newline="", encoding="utf-8") as fp:
-        writer = csv.DictWriter(fp, fieldnames=["name", "booth", "homepage", "categories", "overview", "partner_url"])
-        writer.writeheader()
-        writer.writerows(rows)
-
-    print(f"Scraping complete → {out.resolve()}")
-
+    try:
+        companies = collect_sector_companies()
+        out_path = Path("sector_companies.csv")
+        logger.info("Writing results to %s", out_path)
+        with out_path.open("w", newline="", encoding="utf-8") as fp:
+            fieldnames = ["name", "partner_url", "startup", "categories"]
+            writer = csv.DictWriter(fp, fieldnames=fieldnames)
+            writer.writeheader()
+            for row in companies:
+                writer.writerow(row)
+                logger.debug("Wrote row: %s", row)
+        logger.info("Extraction complete: %s", out_path.resolve())
+    except Exception:
+        logger.error("Unexpected error:\n%s", traceback.format_exc())
 
 if __name__ == "__main__":
     main()
